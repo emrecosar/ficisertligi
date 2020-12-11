@@ -11,7 +11,7 @@ Have a good #Week everyone! 🥃🥃
 .
 .
 .
-.
+.alakasiz
 .
 #whisky #whiskey #scotch #sherry #bourbon #şerefe #speyside #oloroso #brutdefut #oldschool #tree #kokteyl #sky #singlemaltwhisky #viski #maltviski #islay #cocktail #malt #kanpai #caskstrength #slainte #🥃 #glenfarclas
 
