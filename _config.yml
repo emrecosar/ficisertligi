@@ -81,5 +81,5 @@ sass:
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 
 
-url: tomjoht.github.io
-baseurl: /myreponame
+url: emrecosar.github.io
+baseurl: /ficisertligi
