@@ -79,3 +79,7 @@ sass:
   style: compressed
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+
+
+url: tomjoht.github.io
+baseurl: /myreponame
