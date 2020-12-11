@@ -2,7 +2,7 @@
 name: "Brut De Fut"
 title: "Brut De Fut"
 description: "Simple Guide to Whisk(e)y"
-logo: 'assets/images/whisky-logo.png'
+logo: 'assets/images/whisky-logo.jpg'
 favicon: 'assets/images/logo.png'
 baseurl: /jekyll-theme-memoirs
 google_analytics: 'UA-xxxxxxxx-1'
