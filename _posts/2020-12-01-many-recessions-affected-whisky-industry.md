@@ -1,18 +1,23 @@
 ---
 layout: post
-title:  "Award-Winning #Glenfarclas15"
+title:  "Many recessions affected whisky industry"
 author: emrah
 categories: [ Whisky ]
-image: assets/images/visky-1.jpeg
+image: assets/images/visky-2.jpeg
 ---
 Have a good #Week everyone! 🥃🥃
 .
+
 .
+
 .
+
 .
+
 .
-.alakasiz
+
 .
+
 #whisky #whiskey #scotch #sherry #bourbon #şerefe #speyside #oloroso #brutdefut #oldschool #tree #kokteyl #sky #singlemaltwhisky #viski #maltviski #islay #cocktail #malt #kanpai #caskstrength #slainte #🥃 #glenfarclas
 
 ✅Too many recessions affected whisky industry in 19th and 20th century but Glenfarclas Family never gave up on their spirits and always said “No!” to the blends. 👊

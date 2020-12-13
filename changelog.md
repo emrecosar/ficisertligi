@@ -1,5 +1,11 @@
 # Memoirs Jekyll Theme by WowThemes - Change Log
 
+## 2020-12-11, v2.0.1
+- ficisertlifi cleanup
+
+## 2020-12-11, v2.0.0
+- ficisertlifi initial version
+
 ## 2020-05-06, v1.0.2
 - jquery 3.5.1
 
