@@ -2,7 +2,7 @@
 layout: post
 title:  "Three different countries and four different styles; which one will be your choice?"
 author: emrah
-categories: [ Whisky ]
+categories: [ highland ]
 tags: [ Whisky ]
 image: "assets/images/visky-4.jpeg"
 ---

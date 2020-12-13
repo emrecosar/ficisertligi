@@ -2,7 +2,7 @@
 layout: post
 title:  "Erhan Ozden & the Whisky Bottle Design"
 author: emrah
-categories: [ Whisky ]
+categories: [ islay ]
 image: assets/images/visky-1.jpeg
 ---
 

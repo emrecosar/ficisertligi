@@ -2,8 +2,8 @@
 layout: post
 title:  "Award-Winning #Glenfarclas15"
 author: emrah
-categories: [ Whisky ]
-image: assets/images/visky-1.jpeg
+categories: [ highland ]
+image: assets/images/visky-2.jpeg
 ---
 Have a good #Week everyone! 🥃🥃
 .

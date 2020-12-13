@@ -21,56 +21,86 @@ var documents = [{
     "body": "  Please send your message to Brut De Fut. We will reply as soon as possible!   "
     }, {
     "id": 4,
-    "url": "http://localhost:4000/ficisertligi/",
-    "title": "Home",
-    "body": "                                                                                               Too many recessions affected whisky industry in 19th and 20th century              :       ✅Too many recessions affected whisky industry in 19th and 20th century but Glenfarclas Family never gave up on their spirits and always said “No!” to the blends. 👊 Imho, 15. . . :                                                                               Emrah                 13 Dec 2020                                                                                                                           Three different countries and four different styles; which one will be your choice?              :       ✅Three different countries and four different styles; which one will be your choice?:                                                                               Emrah                 12 Dec 2020                                                                                                                           Award-Winning #Glenfarclas15              :       Have a good #Week everyone! 🥃🥃 . . . . . . alakasiz . #whisky #whiskey #scotch #sherry #bourbon #şerefe #speyside #oloroso #brutdefut #oldschool #tree #kokteyl #sky #singlemaltwhisky #viski #maltviski #islay. . . :                                                                               Emrah                 11 Dec 2020                                                                                                                           Erhan Ozden &amp; the Whisky Bottle Design              :       ✅If you’ve got two #Katana inspired products under the same roof, you must match them. (No other options!)😎:                                                                               Emrah                 05 Dec 2020                                                                                                                           Cardhu12 offers you sweeter aromas                         1 2 3 4 5                      :       ✅Salty bubbles are climbing up to the top but #Cardhu12 offers you sweeter aromas inside, as you expected from a classic Speyside whisky. 🥃:                                                                               Emrah                 04 Dec 2020                                                                                                                           Spoliers Inside - a film review needs hidden spoilers like this post              :       ✅Three different countries and four different styles; which one will be your choice?:                                                                               Emrah                 03 Dec 2020                                   &laquo;        1        2       &raquo; "
+    "url": "http://localhost:4000/ficisertligi/highland",
+    "title": "Highland",
+    "body": "                                                                                               Too many recessions affected whisky industry in 19th and 20th century              :       ✅Too many recessions affected whisky industry in 19th and 20th century but Glenfarclas Family never gave up on their spirits and always said “No!” to the blends. 👊 Imho, 15. . . :                                                                               Emrah                 13 Dec 2020                                                                                                                           Three different countries and four different styles; which one will be your choice?              :       ✅Three different countries and four different styles; which one will be your choice?:                                                                               Emrah                 12 Dec 2020                                                                                                                           Award-Winning #Glenfarclas15              :       Have a good #Week everyone! 🥃🥃 . . . . . . alakasiz . #whisky #whiskey #scotch #sherry #bourbon #şerefe #speyside #oloroso #brutdefut #oldschool #tree #kokteyl #sky #singlemaltwhisky #viski #maltviski #islay. . . :                                                                               Emrah                 11 Dec 2020                                "
     }, {
     "id": 5,
+    "url": "http://localhost:4000/ficisertligi/",
+    "title": "Home",
+    "body": "                                                                                               Too many recessions affected whisky industry in 19th and 20th century              :       ✅Too many recessions affected whisky industry in 19th and 20th century but Glenfarclas Family never gave up on their spirits and always said “No!” to the blends. 👊 Imho, 15. . . :                                                                               Emrah                 13 Dec 2020                                                                                                                           Three different countries and four different styles; which one will be your choice?              :       ✅Three different countries and four different styles; which one will be your choice?:                                                                               Emrah                 12 Dec 2020                                                                                                                           Award-Winning #Glenfarclas15              :       Have a good #Week everyone! 🥃🥃 . . . . . . alakasiz . #whisky #whiskey #scotch #sherry #bourbon #şerefe #speyside #oloroso #brutdefut #oldschool #tree #kokteyl #sky #singlemaltwhisky #viski #maltviski #islay. . . :                                                                               Emrah                 11 Dec 2020                                                                                                                           First NAS limited edition bottling from King Car Group              :       ✅First NAS limited edition bottling from King Car Group, also the owners of the Kavalan. Master blender #IanChang and consultant Dr. #JimSwan (RIP) did great job on this one. 👊. . . :                                                                               Emrah                 10 Dec 2020                                                                                                                           Meaty Speyside?              :       ✅ -Meaty Speyside? -Make it double please! 🥃🥃:                                                                               Emrah                 09 Dec 2020                                                                                                                           Erhan Ozden &amp; the Whisky Bottle Design              :       ✅If you’ve got two #Katana inspired products under the same roof, you must match them. (No other options!)😎:                                                                               Emrah                 05 Dec 2020                                   &laquo;        1        2       &raquo; "
+    }, {
+    "id": 6,
+    "url": "http://localhost:4000/ficisertligi/islay",
+    "title": "Islay",
+    "body": "                                                                                               Erhan Ozden &amp; the Whisky Bottle Design              :       ✅If you’ve got two #Katana inspired products under the same roof, you must match them. (No other options!)😎:                                                                               Emrah                 05 Dec 2020                                                                                                                           Many recessions affected whisky industry              :       Have a good #Week everyone! 🥃🥃. :                                                                               Emrah                 01 Dec 2020                                "
+    }, {
+    "id": 7,
+    "url": "http://localhost:4000/ficisertligi/japanese-asia",
+    "title": "Japanese&Asia",
+    "body": "                                                                                               First NAS limited edition bottling from King Car Group              :       ✅First NAS limited edition bottling from King Car Group, also the owners of the Kavalan. Master blender #IanChang and consultant Dr. #JimSwan (RIP) did great job on this one. 👊. . . :                                                                               Emrah                 10 Dec 2020                                                                                                                           Two Katana inspired products under the same roof              :       ✅If you’ve got two #Katana inspired products under the same roof, you must match them. (No other options!)😎:                                                                               Emrah                 02 Dec 2020                                "
+    }, {
+    "id": 8,
+    "url": "http://localhost:4000/ficisertligi/speyside",
+    "title": "Speyside",
+    "body": "  {% for post in site. categories. speyside %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    }, {
+    "id": 9,
     "url": "http://localhost:4000/ficisertligi/robots.txt",
     "title": "",
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
-    "id": 6,
+    "id": 10,
     "url": "http://localhost:4000/ficisertligi/page2/",
     "title": "Home",
     "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
-    "id": 7,
+    "id": 11,
     "url": "http://localhost:4000/ficisertligi/too-many-recessions/",
     "title": "Too many recessions affected whisky industry in 19th and 20th century",
     "body": "2020/12/13 - ✅Too many recessions affected whisky industry in 19th and 20th century but Glenfarclas Family never gave up on their spirits and always said “No!” to the blends. 👊Imho, 15 yo expression is one of the best sherried whiskies in the world, from the “Valley of the green Grassland” distillery. 🥃 ✅Red fruits exploding, chocolate, raisins, cinnamon, oily, very slightly smoky, oaky and 46% abv gives amazing depth to this wonderfully balanced whisky. 🥃 ✅Award-Winning #Glenfarclas15@theiwsc 2014 silver🥈@spiritsbusiness 2013, 2019 gold🥇🥇@intspiritschal 2019 gold 🥇 . . . Have a good #Week everyone! 🥃🥃. . . . . . . #whisky #whiskey #scotch #sherry #bourbon #şerefe #speyside #oloroso #brutdefut #oldschool #tree #kokteyl #sky #singlemaltwhisky #viski #maltviski #islay #cocktail #malt #kanpai #caskstrength #slainte #🥃 #glenfarclas "
     }, {
-    "id": 8,
+    "id": 12,
     "url": "http://localhost:4000/ficisertligi/three-different-countries-and-four-different-styles/",
     "title": "Three different countries and four different styles; which one will be your choice?",
     "body": "2020/12/12 - ✅Three different countries and four different styles; which one will be your choice? ✅Fruity and powerful #KnobCreekCedar cask matured #KamikiA distillery classic #Glenmorangie18Lovely balanced #JackDanielsSingleBarrel. . Enjoy your #WhiskyWednesday folks! 🥃🥃. . #whisky #whiskey #scotland #highland #Ardbeg #brutdefut #jackdaniels #glenlivet #istanbul #viski #dram #johnniewalker #islay #cocktail #malt #caskstrength #slainte #Lagavulin #glenmorangie #autumn "
     }, {
-    "id": 9,
+    "id": 13,
     "url": "http://localhost:4000/ficisertligi/award-winning-glenfarclas15/",
     "title": "Award-Winning #Glenfarclas15",
     "body": "2020/12/11 - Have a good #Week everyone! 🥃🥃. . . . . . alakasiz. #whisky #whiskey #scotch #sherry #bourbon #şerefe #speyside #oloroso #brutdefut #oldschool #tree #kokteyl #sky #singlemaltwhisky #viski #maltviski #islay #cocktail #malt #kanpai #caskstrength #slainte #🥃 #glenfarclas ✅Too many recessions affected whisky industry in 19th and 20th century but Glenfarclas Family never gave up on their spirits and always said “No!” to the blends. 👊Imho, 15 yo expression is one of the best sherried whiskies in the world, from the “Valley of the green Grassland” distillery. 🥃 ✅Red fruits exploding, chocolate, raisins, cinnamon, oily, very slightly smoky, oaky and 46% abv gives amazing depth to this wonderfully balanced whisky. 🥃 ✅Award-Winning #Glenfarclas15@theiwsc 2014 silver🥈@spiritsbusiness 2013, 2019 gold🥇🥇@intspiritschal 2019 gold 🥇 "
     }, {
-    "id": 10,
+    "id": 14,
+    "url": "http://localhost:4000/ficisertligi/bottling-from-king-car-group/",
+    "title": "First NAS limited edition bottling from King Car Group",
+    "body": "2020/12/10 - ✅First NAS limited edition bottling from King Car Group, also the owners of the Kavalan. Master blender #IanChang and consultant Dr. #JimSwan (RIP) did great job on this one. 👊 ✅Lime, mango, green apple, vanilla, caramel; really exotic on the nose. Nutty, peppery, slightly oily, warm and lingering. 🥃. . Have a lovely #Tuesday whisky friends! 🥃🥃. . . #whisky #whiskey #scotch #singlemalt #bourbon #photography #imbibe #brutdefut #scotchwhisky #whiskygram #view #viski #maltviski #speyside #cocktail #kingcar #caskstrength #sky #clouds #Kavalan "
+    }, {
+    "id": 15,
+    "url": "http://localhost:4000/ficisertligi/meaty-speyside/",
+    "title": "Meaty Speyside?",
+    "body": "2020/12/09 - ✅ -Meaty Speyside? -Make it double please! 🥃🥃 Craigellachie uses “worm tubs” to cool their spirits slowly and the result is oily, meaty character. 👊 ✅@worldwhiskiesawards 2016 bronze🥉 2017 gold🥇 I’m very excited and curious about a full bottle of #Craigellachie13 and can’t wait to taste/share it with my friends. 🥃🥃 Have a good week to you all! 🥃. . . . . #whisky #whiskey #scotch #singlemalt #bourbon #highland #imbibe #brutdefut #scotchwhisky #instawhisky #whiskygram #singlemaltwhisky #viski #maltviski #islay #cocktail #speyside #caskstrength #slainte #craigellachie "
+    }, {
+    "id": 16,
     "url": "http://localhost:4000/ficisertligi/erhan-ozden-the-whisky-bottle-design/",
     "title": "Erhan Ozden & the Whisky Bottle Design",
     "body": "2020/12/05 - ✅If you’ve got two #Katana inspired products under the same roof, you must match them. (No other options!)😎 ✅Best Japanese watchmakers crafted my #GrandSeiko and talented Erhan Ozden did an amazing job on that bottle design for a brave brand called Kamiki, which uses “cedar wood casks” to mature this blended malt whisky. 👌🥃. . . Have a good #WhiskyWednesday folks! 🥃🥃. . . #whisky #whiskey #scotch #singlemalt #bourbon #autumn #imbibe #brutdefut #wristwatch #blendedmalt #grandseiko #japan #viski #maltviski #slainte #cocktail #kanpai #caskstrength #islay #kamiki "
     }, {
-    "id": 11,
+    "id": 17,
     "url": "http://localhost:4000/ficisertligi/les-ambassadeurs/",
     "title": "Cardhu12 offers you sweeter aromas",
     "body": "2020/12/04 - ✅Salty bubbles are climbing up to the top but #Cardhu12 offers you sweeter aromas inside, as you expected from a classic Speyside whisky. 🥃 ✅Bananas, apples, peaches, very fruity on the nose; well-honeyed, sweet spice, malty, smooth and easy going. 👌 ✅Multiple award winner; @worldwhiskiesawards 2016 gold🥇@theiwsc 2013, 2014, 2017 silver🥈🥈🥈@intspiritschal 2014 silver🥈@spiritsbusiness 2013, 2014 gold🥇🥇2015 silver🥈. . Have a nice #Weekend folks! 🥃🥃. . . #whisky #whiskey #scotch #singlemalt #bourbon #imbibe #whiskylove #brutdefut #scotchwhisky #instawhisky #whiskygram #singlemaltwhisky #viski #dram #maltviski #diageo #distillery #malt #speyside #caskstrength #spirits #cardhu #thedailywhisky #slainte #skål "
     }, {
-    "id": 12,
+    "id": 18,
     "url": "http://localhost:4000/ficisertligi/spoiler-a-distillery-classic-glenmorangie18/",
     "title": "Spoliers Inside - a film review needs hidden spoilers like this post",
     "body": "2020/12/03 - ✅Three different countries and four different styles; which one will be your choice? ✅Fruity and powerful #KnobCreekCedar cask matured #KamikiA distillery classic #Glenmorangie18Lovely balanced #JackDanielsSingleBarrel. . Enjoy your #WhiskyWednesday folks! 🥃🥃. . #whisky #whiskey #scotland #highland #Ardbeg #brutdefut #jackdaniels #glenlivet #istanbul #viski #dram #johnniewalker #islay #cocktail #malt #caskstrength #slainte #Lagavulin #glenmorangie #autumn&lt;/span&gt; "
     }, {
-    "id": 13,
+    "id": 19,
     "url": "http://localhost:4000/ficisertligi/two-katana-inspired-products-under-the-same-roof/",
     "title": "Two Katana inspired products under the same roof",
     "body": "2020/12/02 - ✅If you’ve got two #Katana inspired products under the same roof, you must match them. (No other options!)😎 ✅Best Japanese watchmakers crafted my #GrandSeiko and talented Erhan Ozden did an amazing job on that bottle design for a brave brand called Kamiki, which uses “cedar wood casks” to mature this blended malt whisky. 👌🥃. . . Have a good #WhiskyWednesday folks! 🥃🥃. . . #whisky #whiskey #scotch #singlemalt #bourbon #autumn #imbibe #brutdefut #wristwatch #blendedmalt #grandseiko #japan #viski #maltviski #slainte #cocktail #kanpai #caskstrength #islay #kamiki "
     }, {
-    "id": 14,
+    "id": 20,
     "url": "http://localhost:4000/ficisertligi/many-recessions-affected-whisky-industry/",
     "title": "Many recessions affected whisky industry",
     "body": "2020/12/01 - Have a good #Week everyone! 🥃🥃. . . . . . #whisky #whiskey #scotch #sherry #bourbon #şerefe #speyside #oloroso #brutdefut #oldschool #tree #kokteyl #sky #singlemaltwhisky #viski #maltviski #islay #cocktail #malt #kanpai #caskstrength #slainte #🥃 #glenfarclas ✅Too many recessions affected whisky industry in 19th and 20th century but Glenfarclas Family never gave up on their spirits and always said “No!” to the blends. 👊Imho, 15 yo expression is one of the best sherried whiskies in the world, from the “Valley of the green Grassland” distillery. 🥃 ✅Red fruits exploding, chocolate, raisins, cinnamon, oily, very slightly smoky, oaky and 46% abv gives amazing depth to this wonderfully balanced whisky. 🥃 ✅Award-Winning #Glenfarclas15@theiwsc 2014 silver🥈@spiritsbusiness 2013, 2019 gold🥇🥇@intspiritschal 2019 gold 🥇 "

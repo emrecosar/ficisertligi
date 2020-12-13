@@ -2,7 +2,7 @@
 layout: post
 title:  "Many recessions affected whisky industry"
 author: emrah
-categories: [ Whisky ]
+categories: [ islay ]
 image: assets/images/visky-2.jpeg
 ---
 Have a good #Week everyone! 🥃🥃

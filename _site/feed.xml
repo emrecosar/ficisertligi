@@ -5,8 +5,8 @@
     <description>Simple Guide to Whisk(e)y</description>
     <link>http://localhost:4000/ficisertligi/</link>
     <atom:link href="http://localhost:4000/ficisertligi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 Dec 2020 15:13:43 +0100</pubDate>
-    <lastBuildDate>Sun, 13 Dec 2020 15:13:43 +0100</lastBuildDate>
+    <pubDate>Sun, 13 Dec 2020 21:09:18 +0100</pubDate>
+    <lastBuildDate>Sun, 13 Dec 2020 21:09:18 +0100</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -40,8 +40,10 @@ Have a good #Week everyone! 🥃🥃
         
         <category>Whisky</category>
         
+        <category>Highland</category>
         
-        <category>Whisky</category>
+        
+        <category>highland</category>
         
       </item>
     
@@ -68,7 +70,7 @@ Enjoy your #WhiskyWednesday folks! 🥃🥃
         <category>Whisky</category>
         
         
-        <category>Whisky</category>
+        <category>highland</category>
         
       </item>
     
@@ -99,7 +101,69 @@ Imho, 15 yo expression is one of the best sherried whiskies in the world, from t
         <guid isPermaLink="true">http://localhost:4000/ficisertligi/award-winning-glenfarclas15/</guid>
         
         
+        <category>highland</category>
+        
+      </item>
+    
+      <item>
+        <title>First NAS limited edition bottling from King Car Group</title>
+        <description>&lt;p&gt;✅First NAS limited edition bottling from King Car Group, also the owners of the Kavalan. 
+Master blender #IanChang and consultant Dr. #JimSwan (RIP) did great job on this one. 👊&lt;/p&gt;
+
+&lt;p&gt;✅Lime, mango, green apple, vanilla, caramel; really exotic on the nose. Nutty, peppery, slightly oily, warm and lingering. 🥃
+.
+.
+Have a lovely #Tuesday whisky friends! 🥃🥃
+.
+.
+.
+#whisky #whiskey #scotch #singlemalt #bourbon #photography #imbibe #brutdefut #scotchwhisky #whiskygram #view #viski #maltviski #speyside #cocktail #kingcar #caskstrength #sky #clouds #Kavalan&lt;/p&gt;
+</description>
+        <pubDate>Thu, 10 Dec 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/ficisertligi/bottling-from-king-car-group/</link>
+        <guid isPermaLink="true">http://localhost:4000/ficisertligi/bottling-from-king-car-group/</guid>
+        
         <category>Whisky</category>
+        
+        <category>Japanese</category>
+        
+        <category>Asia</category>
+        
+        
+        <category>japanese-asia</category>
+        
+      </item>
+    
+      <item>
+        <title>Meaty Speyside?</title>
+        <description>&lt;p&gt;✅ -Meaty Speyside? 
+-Make it double please! 🥃🥃&lt;/p&gt;
+
+&lt;p&gt;Craigellachie uses “worm tubs” to cool their spirits slowly and the result is oily, meaty character. 👊&lt;/p&gt;
+
+&lt;p&gt;✅@worldwhiskiesawards 
+2016 bronze🥉 2017 gold🥇&lt;/p&gt;
+
+&lt;p&gt;I’m very excited and curious about a full bottle of #Craigellachie13 and can’t wait to taste/share it with my friends. 🥃🥃&lt;/p&gt;
+
+&lt;p&gt;Have a good week to you all! 🥃
+.
+.
+.
+.
+.
+#whisky #whiskey #scotch #singlemalt #bourbon #highland #imbibe #brutdefut #scotchwhisky #instawhisky #whiskygram #singlemaltwhisky #viski #maltviski #islay #cocktail #speyside #caskstrength #slainte #craigellachie&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Dec 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/ficisertligi/meaty-speyside/</link>
+        <guid isPermaLink="true">http://localhost:4000/ficisertligi/meaty-speyside/</guid>
+        
+        <category>Whisky</category>
+        
+        <category>Speyside</category>
+        
+        
+        <category>speyside</category>
         
       </item>
     
@@ -122,7 +186,7 @@ Have a good #WhiskyWednesday folks! 🥃🥃
         <guid isPermaLink="true">http://localhost:4000/ficisertligi/erhan-ozden-the-whisky-bottle-design/</guid>
         
         
-        <category>Whisky</category>
+        <category>islay</category>
         
       </item>
     
@@ -152,7 +216,7 @@ Have a nice #Weekend folks! 🥃🥃
         <category>Whisky</category>
         
         
-        <category>Whisky</category>
+        <category>speyside</category>
         
       </item>
     
@@ -185,7 +249,7 @@ Lovely balanced #JackDanielsSingleBarrel
         <category>Whisky</category>
         
         
-        <category>Whisky</category>
+        <category>speyside</category>
         
       </item>
     
@@ -208,7 +272,7 @@ Have a good #WhiskyWednesday folks! 🥃🥃
         <guid isPermaLink="true">http://localhost:4000/ficisertligi/two-katana-inspired-products-under-the-same-roof/</guid>
         
         
-        <category>Whisky</category>
+        <category>japanese-asia</category>
         
       </item>
     
@@ -244,7 +308,7 @@ Imho, 15 yo expression is one of the best sherried whiskies in the world, from t
         <guid isPermaLink="true">http://localhost:4000/ficisertligi/many-recessions-affected-whisky-industry/</guid>
         
         
-        <category>Whisky</category>
+        <category>islay</category>
         
       </item>
     

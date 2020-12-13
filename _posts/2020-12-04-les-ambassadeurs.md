@@ -2,9 +2,9 @@
 layout: post
 title:  "Cardhu12 offers you sweeter aromas"
 author: emrah
-categories: [ Whisky ]
+categories: [ speyside  ]
 tags: [ Whisky ]
-image: assets/images/visky-2.jpeg
+image: assets/images/visky-1.jpeg
 rating: 4.5
 ---
 

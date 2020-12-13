@@ -2,7 +2,7 @@
 layout: post
 title:  "Spoliers Inside - a film review needs hidden spoilers like this post"
 author: emrah
-categories: [ Whisky ]
+categories: [ speyside ]
 tags: [ Whisky ]
 image: assets/images/visky-4.jpeg
 ---

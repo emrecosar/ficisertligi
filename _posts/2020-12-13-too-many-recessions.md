@@ -2,9 +2,9 @@
 layout: post
 title:  "Too many recessions affected whisky industry in 19th and 20th century"
 author: emrah
-categories: [ Whisky ]
-tags: [ Whisky ]
-image: assets/images/visky-1.jpeg
+categories: [ highland ]
+tags: [ Whisky, Highland ]
+image: assets/images/visky-2.jpeg
 ---
 
 ✅Too many recessions affected whisky industry in 19th and 20th century but Glenfarclas Family never gave up on their spirits and always said “No!” to the blends. 👊

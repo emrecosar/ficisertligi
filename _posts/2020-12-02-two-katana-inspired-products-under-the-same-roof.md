@@ -2,7 +2,7 @@
 layout: post
 title:  "Two Katana inspired products under the same roof"
 author: emrah
-categories: [ Whisky ]
+categories: [ japanese-asia ]
 image: assets/images/visky-3.jpeg
 ---
 
