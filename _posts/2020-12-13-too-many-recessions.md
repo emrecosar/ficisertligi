@@ -7,25 +7,14 @@ tags: [ Whisky, Highland ]
 image: assets/images/visky-2.jpeg
 ---
 
-✅Too many recessions affected whisky industry in 19th and 20th century but Glenfarclas Family never gave up on their spirits and always said “No!” to the blends. 👊
-Imho, 15 yo expression is one of the best sherried whiskies in the world, from the “Valley of the green Grassland” distillery. 🥃
+Tam altı jenerasyondur "The Grants" tarafından yönetilen, 19. ve 20. yaşanan tüm resesyonlara rağmen ayakta kalmayı başaran ve viskilerini hiçbir zaman blended furyasına kurban etmeyen köklü Glenfarclas Damıtımevi'nin, aile tarafından da en çok tüketilen ekspresyonlardan biri olan Glenfarclas 15. 
 
-✅Red fruits exploding, chocolate, raisins, cinnamon, oily, very slightly smoky, oaky and 46% abv gives amazing depth to this wonderfully balanced whisky. 🥃
+Burunda yoğun kırmızı meyve, çikolata ve meşe kokuları baskın. Viskilerde olgunlaşma süresi arttıkça, mayalanmış hamuru hatırlatan bir aroma dikkatimi çekiyor. (Yıllar içerisinde fıçının viskiye olan etkisinin artmasıyla paralel şekilde malt yoğunluğu da artıyor.) Hafif is burundaki sürpriz oluyor. 
+Damakta yağlı ve dolgun; başlangıçta şeri etkisi ile tatlılık ve üzümün diğer aromaları biraz bastırdığını söylemek mümkün. Kadehte bekledikçe güzelce açılıyor ve aromalar dengeleniyor. Diğer yandan "christmas cake" diye tabir edilen ve bana annemin yaptığı meyveli, tarçınlı keki hatırlatan tatlar yanında, hiç kaybolmayan, aynı zamanda diğerlerini baskılamayan güzel bir meşe hissiyatı mevcut.
+Bitiş ise uzun, sıcak, tatlı ve baharatlı. Burada ilgi çekici noktalardan biri, sona gelene kadar baharat tadı almadığım halde damakta birden ortaya çıkması oluyor. Denediğim tüm viskiler arasında bir ilk ve böyle sürprizlere kapım her zaman açık.
 
-✅Award-Winning #Glenfarclas15
-@theiwsc 2014 silver🥈
-@spiritsbusiness 2013, 2019 gold🥇🥇
-@intspiritschal 2019 gold 🥇
+Glenfarclas 15 renklendirici içermeyen, %46 abv ile şişelenen, aldığın yudumun bitmesini istemediğin, bal gibi, harika bir ekspresyon. Bu hobi ile ilgilensin, ilgilenmesin herkese rahatlıkla tavsiye edebileceğim, şişe ve etiket tasarımına hayran olduğum, gerçek Highland Sİngle Malt'lardan bir tanesi.
 
-.
-.
-.
-Have a good #Week everyone! 🥃🥃
-.
-.
-.
-.
-.
-.
-.
-#whisky #whiskey #scotch #sherry #bourbon #şerefe #speyside #oloroso #brutdefut #oldschool #tree #kokteyl #sky #singlemaltwhisky #viski #maltviski #islay #cocktail #malt #kanpai #caskstrength #slainte #🥃 #glenfarclas
+Ek Bilgi: Glenfarclas kelimesinin anlamı; "Glen of the Green Grassland", yani "Yeşil Çayır Vadisi" 
+
+Sağlığınıza.
