@@ -2,7 +2,7 @@
 layout: post
 title:  "BUNNAHABHAIN CRUACH-MHONA"
 author: emrah
-categories: [ highland ]
+categories: [ islay ]
 image: assets/images/Cruach-Mhona/Cruach-Mhona.jpg
 ---
 Tüm ürünlerine heyecanla yaklaştığım ve denemek istediğim, marka ismi ve amblemine hayran olduğum Bunnahabhain Damıtımevi'nin "travel retail" piyasası için hazırlanmış ve adı Gaelic dilinde "peat stack/turba istifi" anlamına gelen limitli ekspresyonu.
