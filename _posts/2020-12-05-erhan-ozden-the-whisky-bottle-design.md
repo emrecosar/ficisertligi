@@ -3,7 +3,7 @@ layout: post
 title:  "Erhan Ozden & the Whisky Bottle Design"
 author: emrah
 categories: [ islay ]
-image: assets/images/visky-1.jpeg
+image: assets/images/visky-3.jpeg
 ---
 
 ✅If you’ve got two #Katana inspired products under the same roof, you must match them. (No other options!)😎
