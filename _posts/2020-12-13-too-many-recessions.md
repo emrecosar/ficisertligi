@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Too many recessions affected whisky industry in 19th and 20th century"
+title:  "GLENFARCLAS 15"
 author: emrah
 categories: [ highland ]
 tags: [ Whisky, Highland ]
