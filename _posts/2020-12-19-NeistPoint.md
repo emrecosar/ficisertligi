@@ -14,3 +14,5 @@ Bitiş yine bolca baharatlı, kuru, isli, uzun, sıcacık ve çok tatmin edici.
 Yumuşak ve dengeli içimine rağmen, çok gövdeli olmayan yapısı nedeniyle genel Talisker profilinden biraz farklı yerde durduğunu düşündüğüm viski %45.8 abv ile şişeleniyor, NAS (No Age Statement) ve soğuk filtrasyon uygulanmıyor. 
 Damıtımevi'nin tabiri ile "en iyi ve nadir" fıçılar seçiliyor ve Malt Ustası Craig Wilson tarafından genç ve yaşlı viskiler bir araya getirilerek bu ekspresyon yaratılıyor. 
 Son zamanlarda bulunması gittikçe zorlaşan ve buna bağlı olarak fiyatı da artan viski, farklı bir deneyim yaşamak isteyen Talisker severler için ilginç bir deneyim olacaktır. 
+
+Sağlığınıza.
