@@ -1,13 +1,18 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: Fıçı Sertliği | Brut De Fût
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: assets/images/logo.png
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+Brut de Fût\
+Viski Meraklısı\
+Simple Guide to Whisk(e)y\
+📝Tasting Notes\
+📸Amateur Shots\
+🥃Fun Facts
 
-<a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+<a target="_blank" href="https://www.instagram.com/brutdefut/" class="btn btn-dark"> Instagram &rarr;</a>
 
