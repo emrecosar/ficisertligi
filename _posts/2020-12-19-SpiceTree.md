@@ -15,7 +15,7 @@ Damakta adına yakışan baharat çeşitliliği devam ediyor. Kırmızı/siyah b
 Bitiş uzun, sıcak, tatlı ve elbette yine baharatlı. Blendend malt bir viski için oldukça dengeli ve kafa karıştırmıyor. 
 
 Doğal renge sahip, soğuk filtrasyon işleminden geçmeyen ve %46 abv ile şişelenen ekspresyon, etiketinde yer alan hayat ağacı ile hayranı olduğum ünlü ressam "Gustav Klimt"e selam veriyor.
-Spice Tree'de genellikle İskoçya'nın highland bölgesinden viskiler tercih ediliyor. Marka kendi geliştirdiği meşe fıçılar ile olgunlaşma sağlıyor ve bunun için ciddi ar-ge yatırımı yapıyor. 
+Spice Tree'de genellikle İskoçya'nın highland bölgesinden viskiler tercih ediliyor.(Clynelish, Dailuaine, vb. gibi) Marka kendi geliştirdiği meşe fıçılar ile olgunlaşma sağlıyor ve bunun için ciddi ar-ge yatırımı yapıyor. 
 Piyasadaki en baharatlı viski olduğunu iddia eden single malt rakibi Mortlach 14'ten daha yoğun aromaya sahip. 
 
 İçtiğim en güzel blended viskilerden biri olduğu kesin. Baharat seven bir insan değilseniz tavsiye edemem, muhtemelen hoşunuza gitmeyecektir. Ancak benim gibi çeşnilendirmeyi seven taraftaysanız hiç düşünmeden alabilirsiniz. 
