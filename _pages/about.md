@@ -9,7 +9,7 @@ imageshadow: true
 
 Brut de Fût\
 Viski Meraklısı\
-Simple Guide to Whisk(e)y\
+Simple Guide to Whiskey\
 📝Tasting Notes\
 📸Amateur Shots\
 🥃Fun Facts

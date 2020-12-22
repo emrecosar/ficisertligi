@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fıçı Sertliği | Brut De Fût</title>
-    <description>Simple Guide to Whisk(e)y</description>
+    <description>Simple Guide to Whiskey</description>
     <link>http://localhost:4000/ficisertligi/</link>
     <atom:link href="http://localhost:4000/ficisertligi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Dec 2020 00:16:20 +0100</pubDate>
-    <lastBuildDate>Sun, 20 Dec 2020 00:16:20 +0100</lastBuildDate>
+    <pubDate>Wed, 23 Dec 2020 00:34:43 +0100</pubDate>
+    <lastBuildDate>Wed, 23 Dec 2020 00:34:43 +0100</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -34,25 +34,6 @@ Ayrıca nev-i şahsına münhasır karakteri sebebiyle, Woodford Reserve’i ner
       </item>
     
       <item>
-        <title>THE GLENLIVET 15</title>
-        <description>&lt;p&gt;Toplam satış adedi olarak Amerika’da birinci, Dünya’da ikinci olan Glenlivet Damıtımevi’nin, International Wine&amp;amp;Spirits Competition 2015 gümüş, San Fransisco Wine&amp;amp;Spirits Competition 2011 ve 2012 altın madalyalı, 15 yıllık ekspresyonu.&lt;/p&gt;
-
-&lt;p&gt;Burunda yeşil elma, taze çimen, üzüm, bal ve hoş bir tatlılık hissiyatı veren viski; damakta fındık, meşe, ilerledikçe çokça baharatlı ve aynı anda kremamsı, yoğun ve yağlı yapıya sahip. 
-Bitiş orta-uzun arası, baharatlı, malt kuruluğu hissediliyor. Kadehte bekledikçe meyve aromaları öne çıkmaya başlıyor.&lt;/p&gt;
-
-&lt;p&gt;Adından anlaşılacağı üzere, daha önce içerisinde konyak yılllandırılmış Fransız limuzin tipi meşe fıçılarda limitli bir süre olgunlaşıyor ve %40 abv ile şişeleniyor. Soğuk filtrasyon yapılıyor ve renklendirici kullanılıyor. 
-Genel olarak oldukça dengeli ve yeni şişe Glenlivet 18’e göre daha karakterli buluyorum.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 19 Dec 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ficisertligi/glenlivet15/</link>
-        <guid isPermaLink="true">http://localhost:4000/ficisertligi/glenlivet15/</guid>
-        
-        
-        <category>speyside</category>
-        
-      </item>
-    
-      <item>
         <title>COMPASS BOX SPICE TREE</title>
         <description>&lt;p&gt;Son yılların en çok sevilen “blended” viski markalarınden biri olan, tüm etiketlerinde muhteşem sanat eserlerine yer veren ya da atıfta bulunan bağımsız şişeleyici Compass Box’ın, baharat sevenler için hazırladığı ekspresyon.&lt;/p&gt;
 
@@ -61,7 +42,7 @@ Damakta adına yakışan baharat çeşitliliği devam ediyor. Kırmızı/siyah b
 Bitiş uzun, sıcak, tatlı ve elbette yine baharatlı. Blendend malt bir viski için oldukça dengeli ve kafa karıştırmıyor.&lt;/p&gt;
 
 &lt;p&gt;Doğal renge sahip, soğuk filtrasyon işleminden geçmeyen ve %46 abv ile şişelenen ekspresyon, etiketinde yer alan hayat ağacı ile hayranı olduğum ünlü ressam “Gustav Klimt”e selam veriyor.
-Spice Tree’de genellikle İskoçya’nın highland bölgesinden viskiler tercih ediliyor. Marka kendi geliştirdiği meşe fıçılar ile olgunlaşma sağlıyor ve bunun için ciddi ar-ge yatırımı yapıyor. 
+Spice Tree’de genellikle İskoçya’nın highland bölgesinden viskiler tercih ediliyor.(Clynelish, Dailuaine, vb. gibi) Marka kendi geliştirdiği meşe fıçılar ile olgunlaşma sağlıyor ve bunun için ciddi ar-ge yatırımı yapıyor. 
 Piyasadaki en baharatlı viski olduğunu iddia eden single malt rakibi Mortlach 14’ten daha yoğun aromaya sahip.&lt;/p&gt;
 
 &lt;p&gt;İçtiğim en güzel blended viskilerden biri olduğu kesin. Baharat seven bir insan değilseniz tavsiye edemem, muhtemelen hoşunuza gitmeyecektir. Ancak benim gibi çeşnilendirmeyi seven taraftaysanız hiç düşünmeden alabilirsiniz.&lt;/p&gt;
@@ -72,8 +53,8 @@ Piyasadaki en baharatlı viski olduğunu iddia eden single malt rakibi Mortlach 
 &lt;p&gt;Sağlığınıza.&lt;/p&gt;
 </description>
         <pubDate>Sat, 19 Dec 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ficisertligi/SpiceTree/</link>
-        <guid isPermaLink="true">http://localhost:4000/ficisertligi/SpiceTree/</guid>
+        <link>http://localhost:4000/ficisertligi/spicetree/</link>
+        <guid isPermaLink="true">http://localhost:4000/ficisertligi/spicetree/</guid>
         
         <category>Whisky</category>
         
@@ -97,8 +78,8 @@ Son zamanlarda bulunması gittikçe zorlaşan ve buna bağlı olarak fiyatı da 
 &lt;p&gt;Sağlığınıza.&lt;/p&gt;
 </description>
         <pubDate>Sat, 19 Dec 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ficisertligi/NeistPoint/</link>
-        <guid isPermaLink="true">http://localhost:4000/ficisertligi/NeistPoint/</guid>
+        <link>http://localhost:4000/ficisertligi/neistpoint/</link>
+        <guid isPermaLink="true">http://localhost:4000/ficisertligi/neistpoint/</guid>
         
         
         <category>islay</category>
@@ -120,8 +101,8 @@ Sıcaklık ve nem nedeniyle hızlanan ve değişen olgunlaşma süreci, artan �
 &lt;p&gt;Sağlığınıza.&lt;/p&gt;
 </description>
         <pubDate>Sat, 19 Dec 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ficisertligi/KingCar/</link>
-        <guid isPermaLink="true">http://localhost:4000/ficisertligi/KingCar/</guid>
+        <link>http://localhost:4000/ficisertligi/kingcar/</link>
+        <guid isPermaLink="true">http://localhost:4000/ficisertligi/kingcar/</guid>
         
         <category>Whisky</category>
         
@@ -148,8 +129,27 @@ Türkiye’ye gelen giriş seviye single malt viskiler arasında fiyat/performan
 &lt;p&gt;Sağlığınıza.&lt;/p&gt;
 </description>
         <pubDate>Sat, 19 Dec 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ficisertligi/GlenMoray-12/</link>
-        <guid isPermaLink="true">http://localhost:4000/ficisertligi/GlenMoray-12/</guid>
+        <link>http://localhost:4000/ficisertligi/glenmoray-12/</link>
+        <guid isPermaLink="true">http://localhost:4000/ficisertligi/glenmoray-12/</guid>
+        
+        
+        <category>speyside</category>
+        
+      </item>
+    
+      <item>
+        <title>THE GLENLIVET 15</title>
+        <description>&lt;p&gt;Toplam satış adedi olarak Amerika’da birinci, Dünya’da ikinci olan Glenlivet Damıtımevi’nin, International Wine&amp;amp;Spirits Competition 2015 gümüş, San Fransisco Wine&amp;amp;Spirits Competition 2011 ve 2012 altın madalyalı, 15 yıllık ekspresyonu.&lt;/p&gt;
+
+&lt;p&gt;Burunda yeşil elma, taze çimen, üzüm, bal ve hoş bir tatlılık hissiyatı veren viski; damakta fındık, meşe, ilerledikçe çokça baharatlı ve aynı anda kremamsı, yoğun ve yağlı yapıya sahip. 
+Bitiş orta-uzun arası, baharatlı, malt kuruluğu hissediliyor. Kadehte bekledikçe meyve aromaları öne çıkmaya başlıyor.&lt;/p&gt;
+
+&lt;p&gt;Adından anlaşılacağı üzere, daha önce içerisinde konyak yılllandırılmış Fransız limuzin tipi meşe fıçılarda limitli bir süre olgunlaşıyor ve %40 abv ile şişeleniyor. Soğuk filtrasyon yapılıyor ve renklendirici kullanılıyor. 
+Genel olarak oldukça dengeli ve yeni şişe Glenlivet 18’e göre daha karakterli buluyorum.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 19 Dec 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/ficisertligi/glenlivet-15/</link>
+        <guid isPermaLink="true">http://localhost:4000/ficisertligi/glenlivet-15/</guid>
         
         
         <category>speyside</category>
@@ -170,8 +170,8 @@ Soğutucu ile biber baskınlaşıyor ve tam anlamıyla yazlık bir viskiye dön�
 &lt;p&gt;Sağlığınıza.&lt;/p&gt;
 </description>
         <pubDate>Sat, 19 Dec 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ficisertligi/Ancnoc12/</link>
-        <guid isPermaLink="true">http://localhost:4000/ficisertligi/Ancnoc12/</guid>
+        <link>http://localhost:4000/ficisertligi/ancnoc-12/</link>
+        <guid isPermaLink="true">http://localhost:4000/ficisertligi/ancnoc-12/</guid>
         
         <category>Whisky</category>
         
@@ -194,32 +194,8 @@ Soğutucu ile biber baskınlaşıyor ve tam anlamıyla yazlık bir viskiye dön�
 &lt;p&gt;Sağlığınıza.&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 Dec 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ficisertligi/Cruach-Mhona/</link>
-        <guid isPermaLink="true">http://localhost:4000/ficisertligi/Cruach-Mhona/</guid>
-        
-        
-        <category>islay</category>
-        
-      </item>
-    
-      <item>
-        <title>REDBREAST 12</title>
-        <description>&lt;p&gt;1912 tarihli İrlandalı damıtımevinin Dünya çapında en çok bilinen ve tercih edilen ekspresyonu.&lt;/p&gt;
-
-&lt;p&gt;Burunda vanilya, limon, bal, ekşi maya; üç kez distile edilmesinden kaynaklanan hafif ve tatlı yapısı var.
-Damak başlangıcında çok hafif üzüm hissediliyor ve daha sonra güzel bir şaşırtmaca ile baharata geçiş yapıyor. Standart İrlanda viskilerine göre yağlı, gövdeli ve dengeli bir yapıya sahip.
-Bitişte yine baharatlı, meşe ve kuru meyvelerin yanında uzun, sıcak ve kalıcı.
-Üç kez damıtılan, yarı yarıya “malted/unmalted” arpadan oluşan viski %40 abv ile şişeleniyor. (İki farklı tip arpa “mashbill” içinde %50-%50 birleştirildiği için bu tarza “Single/Pure Pot Still” deniliyor.)&lt;/p&gt;
-
-&lt;p&gt;Damıtımevi viskilerinde kullandığı suyu ünlü Dungourney Nehri’nden alıyor ve Oloroso Şeri ve eski burbon fıçılarında olgunlaştırarak, soğuk filtrasyon işlemine tabi tutmadan şişeleme işlemini tamamlıyor.&lt;/p&gt;
-
-&lt;p&gt;Damak tadıma çok hitap etmeyen İrlanda viskilerinin lokomotiflerinden olan Redbreast 12’yi denediklerim içinde farklı bir yere koyuyorum. Diğerlerine göre katmanlı ve kompleks yapısı sebebiyle şimdiye kadar içtiğim en iyi “Irish whiskey” olduğu kesin ama o da sonuçta bir İrlandalı ve beklentiler buna göre hesaplanmalı.&lt;/p&gt;
-
-&lt;p&gt;Sağlığınıza.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 15 Dec 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ficisertligi/Redbreast12/</link>
-        <guid isPermaLink="true">http://localhost:4000/ficisertligi/Redbreast12/</guid>
+        <link>http://localhost:4000/ficisertligi/cruach-mhona/</link>
+        <guid isPermaLink="true">http://localhost:4000/ficisertligi/cruach-mhona/</guid>
         
         
         <category>islay</category>
@@ -242,10 +218,34 @@ Olgunlaşmada ise ilk 12 yıl eski burbon, son 3 yıl ise tamamen Oloroso Şeri 
 &lt;p&gt;Sağlığınıza.&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 Dec 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ficisertligi/Bowmore15/</link>
-        <guid isPermaLink="true">http://localhost:4000/ficisertligi/Bowmore15/</guid>
+        <link>http://localhost:4000/ficisertligi/bowmore-15/</link>
+        <guid isPermaLink="true">http://localhost:4000/ficisertligi/bowmore-15/</guid>
         
         <category>Whisky</category>
+        
+        
+        <category>islay</category>
+        
+      </item>
+    
+      <item>
+        <title>REDBREAST 12</title>
+        <description>&lt;p&gt;1912 tarihli İrlandalı damıtımevinin Dünya çapında en çok bilinen ve tercih edilen ekspresyonu.&lt;/p&gt;
+
+&lt;p&gt;Burunda vanilya, limon, bal, ekşi maya; üç kez distile edilmesinden kaynaklanan hafif ve tatlı yapısı var.
+Damak başlangıcında çok hafif üzüm hissediliyor ve daha sonra güzel bir şaşırtmaca ile baharata geçiş yapıyor. Standart İrlanda viskilerine göre yağlı, gövdeli ve dengeli bir yapıya sahip.
+Bitişte yine baharatlı, meşe ve kuru meyvelerin yanında uzun, sıcak ve kalıcı.
+Üç kez damıtılan, yarı yarıya “malted/unmalted” arpadan oluşan viski %40 abv ile şişeleniyor. (İki farklı tip arpa “mashbill” içinde %50-%50 birleştirildiği için bu tarza “Single/Pure Pot Still” deniliyor.)&lt;/p&gt;
+
+&lt;p&gt;Damıtımevi viskilerinde kullandığı suyu ünlü Dungourney Nehri’nden alıyor ve Oloroso Şeri ve eski burbon fıçılarında olgunlaştırarak, soğuk filtrasyon işlemine tabi tutmadan şişeleme işlemini tamamlıyor.&lt;/p&gt;
+
+&lt;p&gt;Damak tadıma çok hitap etmeyen İrlanda viskilerinin lokomotiflerinden olan Redbreast 12’yi denediklerim içinde farklı bir yere koyuyorum. Diğerlerine göre katmanlı ve kompleks yapısı sebebiyle şimdiye kadar içtiğim en iyi “Irish whiskey” olduğu kesin ama o da sonuçta bir İrlandalı ve beklentiler buna göre hesaplanmalı.&lt;/p&gt;
+
+&lt;p&gt;Sağlığınıza.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Dec 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/ficisertligi/bedbreast-12/</link>
+        <guid isPermaLink="true">http://localhost:4000/ficisertligi/bedbreast-12/</guid>
         
         
         <category>islay</category>
