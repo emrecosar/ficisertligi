@@ -2,12 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fıçı Sertliği | Brut De Fût</title>
-    <description>Simple Guide to Whiskey</description>
+    <description>Simple Guide to Whisky</description>
     <link>http://localhost:4000/ficisertligi/</link>
     <atom:link href="http://localhost:4000/ficisertligi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Dec 2020 21:47:38 +0100</pubDate>
-    <lastBuildDate>Wed, 23 Dec 2020 21:47:38 +0100</lastBuildDate>
+    <pubDate>Wed, 23 Dec 2020 22:01:35 +0100</pubDate>
+    <lastBuildDate>Wed, 23 Dec 2020 22:01:35 +0100</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>ARDBEG UIGEADAIL</title>
+        <description>&lt;p&gt;Adını damıtımevine su veren gölden alan Uigeadail, Gaelic dilinde “A dark mysterious place/Karanlık ve gizemli yer” anlamına geliyor. Kendisi Corryvreckan’dan sonra en sevdiğim Ardbeg ekspresyonu.&lt;/p&gt;
+
+&lt;p&gt;Burunda is ve kırmızı meyve çok baskın. Aynı zamanda deniz kokusu (tersane, yosun), tütsülenmiş et ve tatlılık hissediliyor. Direkt olgunlaştığı fıçıdan şişelendiği için uzun ve derin koklayınca yakıcı oluyor. 
+Damakta is iyice baskınlaşıyor. Barbeküde pişirilmiş et kokuları damağın arkasını sarıyor. Peşine iyot ve karamelize şeker, tatlı-tuzlu bir arada sevenler için etkileyici ikili oluşturuyorlar. Dolu dolu, şaşırtıcı ve kadifemsi bir kıvama sahip.
+Bitiş çok uzun, sıcacık ve bahratlı.Burundaki kırmızı meyve sonradan devam etmiyor. İs ve tütsülenmiş et sizi alıp götürüyor. 
+Kadehte bekledikçe daha tatlı, uslu ve naif karaktere bürünüyor.&lt;/p&gt;
+
+&lt;p&gt;%52,2 ile fıçı sertliğinde (cask strength/brut de fut), NAS (yaş ibaresi yok), soğuk filtrasyon işlemi uygulanmadan, renklendirici kullanılmadan (ex-sherry fıçılardaki yıllanmadan kaynaklı Ardbeg’de pek rastlanmayan amber rengi) şişeleniyor. 
+İs profili klasik Ardbeg tarzına birebir uyuyor ve aynı zamanda şimdiye kadar denediğim en zengin isli viskilerden oluyor. Bu karakteri nedeniyle her tadımda farklı aromalar keşfedilebilir. Yapısı çok dengeli ve fıçı sertliğinde olduğu için purist viskiseverler açısından biçilmiş kaftan.&lt;/p&gt;
+
+&lt;p&gt;Sağlığınıza.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Dec 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/ficisertligi/uigeadail/</link>
+        <guid isPermaLink="true">http://localhost:4000/ficisertligi/uigeadail/</guid>
+        
+        <category>Whisky</category>
+        
+        <category>Highland</category>
+        
+        
+        <category>islay</category>
+        
+      </item>
+    
+      <item>
+        <title>ABERLOUR A'BUNADH</title>
+        <description>&lt;p&gt;Geleneksel yöntemlere sadık kalarak şişelenen, adı Gaelic dilinde “am bunadh/the origin” anlamına gelen ve Türkiye’de resmi satışı yapılan tek fıçı sertliğindeki şeri bombası olarak tabir edilen ekspresyon.&lt;/p&gt;
+
+&lt;p&gt;Burun çok sert, güçlü ve bolca baharatlı başlıyor ve hemen muskat rayihaları geliyor. (algıda seçicilik) Peşine karamel, yanık meşe ve ilerkedikçe daha çok toprak, orman kokularını hatırlatıyor. Kapağı arada sırada sadece koklamak için bile açılır; öylesine dolu dolu ve zengin.
+Damakta NAS bir viskiye göre inanılmaz dengeli ve içtiğim en gövdeli genç viskilerden. Karanfil, bitkisel ve bitter çikolatalı girişten sonra arkadan arkaya narenciye ortaya çıkıyor. %60,3 abv ile dili sağlam titretiyor. 
+Bitişte biber ve yine meşe baskınlığı yanında, kendisinden beklendiği gibi çok uzun, güçlü ve yakıcı.&lt;/p&gt;
+
+&lt;p&gt;Şu an notlarını okuduğunuz şişe Batch No: 60 ve alkol oranı her yeni seride değişiyor. (Diğer yandan denediğim tüm serilerinde aroma çeşitliliği açısından bakıldığında genel viski karakterinin korunduğunu söylemeliyim.) Filtrasyon işlemi uygulanmıyor ve elbettte şeri fıçılarda olgunlaşıyor. (İspanyol Oloroso) Renklendirici kullanılıyor. (Zaten bu alkol oranı ile amber rengini yakalamaları başka türlü mümkün değil.)&lt;/p&gt;
+
+&lt;p&gt;İlk kez A’bunadh ile ilgimi çeken fıçı sertliğindeki (cask strength) viskiler daha sonra yurt içi ve yurt dışından denediğim bir çok farklı ekspresyon sayesinde özel ilgi alanıma dönüşmeye başladılar. Gerçek bir viskisever’in mutlaka alıp denemesi gerektiğini düşünüyorum.&lt;/p&gt;
+
+&lt;p&gt;Sağlığınıza.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Dec 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/ficisertligi/abunadh/</link>
+        <guid isPermaLink="true">http://localhost:4000/ficisertligi/abunadh/</guid>
+        
+        <category>Whisky</category>
+        
+        <category>Highland</category>
+        
+        
+        <category>highland</category>
+        
+      </item>
     
       <item>
         <title>WOODFORD RESERVE</title>
@@ -198,62 +252,6 @@ Soğutucu ile biber baskınlaşıyor ve tam anlamıyla yazlık bir viskiye dön�
         <pubDate>Wed, 16 Dec 2020 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/ficisertligi/cruach-mhona/</link>
         <guid isPermaLink="true">http://localhost:4000/ficisertligi/cruach-mhona/</guid>
-        
-        <category>Whisky</category>
-        
-        <category>Islay</category>
-        
-        
-        <category>islay</category>
-        
-      </item>
-    
-      <item>
-        <title>BOWMORE 15</title>
-        <description>&lt;p&gt;Halihazırda “Own Floor Malting”(Arpayı çimlendirerek fermentasyona hazırlamak için kullanılan en eski yöntemlerden) işlemi yapan 6-7 damıtımevinden biri olan ve Islay Adası’ndakiler içinde, 1779 kuruluş yılı itibariyle ilk üretim lisansına sahip Bowmore Damıtıevi’nin 2007 çıkışlı ekspresyonu.&lt;/p&gt;
-
-&lt;p&gt;Burunda turunç, limon kabuğu, mango başlıyor. Devamında is, karamel, hafif muskat ve yanık meşe geliyor. Koku duyunuzu tatmin eden, çok zengin ve keyif veren katmanları var.
-Damak gövdeli, yakıcı ve güçlü giriş yapıyor. Sonbahar yapraklarını anımsatan, çok sevdiğim, “earthy” hissiyata sahip ve is ile aromalar dengeli ilerliyor.
-Bitiş yine yakıcı, baharatlı ve isli. Arkaya doğru baharatın etkisiyle güçleniyor, kalıcı ve çok uzun devam ediyor. Kadehte bekledikçe kiren yerken ağızda oluşan burukluğa benzer kekremsi bir kıvam ortaya çıkıyor.&lt;/p&gt;
-
-&lt;p&gt;Soğuk filtrasyon uygulanan, renklendirici kullanılan ekspresyon %43 abv ile şişeleniyor. İs için “peat fired kiln”(turba fırını) kullanılırken, su için Laggan Nehri tercih ediliyor. 
-Olgunlaşmada ise ilk 12 yıl eski burbon, son 3 yıl ise tamamen Oloroso Şeri fıçılar tercih edilmiş. Bu üç yıl bambaşka bir viski ortaya çıkarmış. Çünkü daha önce denediğim 12 yıllık şişesi ile arasında tat profili ve zenginlik açısından dağlar kadar fark var. (Bowmore’un yaş belirtilen klasik ekspresyonları içinde açık ara favorim.)&lt;/p&gt;
-
-&lt;p&gt;Ek Bilgi: Bowmore İkinci Dünya Savaşı sırasında, damıtımevinin tüm arazisini İngiliz Kraliyet Havayolları’nın kullanımına açmıştır.&lt;/p&gt;
-
-&lt;p&gt;Sağlığınıza.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 15 Dec 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ficisertligi/bowmore-15/</link>
-        <guid isPermaLink="true">http://localhost:4000/ficisertligi/bowmore-15/</guid>
-        
-        <category>Whisky</category>
-        
-        <category>Islay</category>
-        
-        
-        <category>islay</category>
-        
-      </item>
-    
-      <item>
-        <title>REDBREAST 12</title>
-        <description>&lt;p&gt;1912 tarihli İrlandalı damıtımevinin Dünya çapında en çok bilinen ve tercih edilen ekspresyonu.&lt;/p&gt;
-
-&lt;p&gt;Burunda vanilya, limon, bal, ekşi maya; üç kez distile edilmesinden kaynaklanan hafif ve tatlı yapısı var.
-Damak başlangıcında çok hafif üzüm hissediliyor ve daha sonra güzel bir şaşırtmaca ile baharata geçiş yapıyor. Standart İrlanda viskilerine göre yağlı, gövdeli ve dengeli bir yapıya sahip.
-Bitişte yine baharatlı, meşe ve kuru meyvelerin yanında uzun, sıcak ve kalıcı.
-Üç kez damıtılan, yarı yarıya “malted/unmalted” arpadan oluşan viski %40 abv ile şişeleniyor. (İki farklı tip arpa “mashbill” içinde %50-%50 birleştirildiği için bu tarza “Single/Pure Pot Still” deniliyor.)&lt;/p&gt;
-
-&lt;p&gt;Damıtımevi viskilerinde kullandığı suyu ünlü Dungourney Nehri’nden alıyor ve Oloroso Şeri ve eski burbon fıçılarında olgunlaştırarak, soğuk filtrasyon işlemine tabi tutmadan şişeleme işlemini tamamlıyor.&lt;/p&gt;
-
-&lt;p&gt;Damak tadıma çok hitap etmeyen İrlanda viskilerinin lokomotiflerinden olan Redbreast 12’yi denediklerim içinde farklı bir yere koyuyorum. Diğerlerine göre katmanlı ve kompleks yapısı sebebiyle şimdiye kadar içtiğim en iyi “Irish whiskey” olduğu kesin ama o da sonuçta bir İrlandalı ve beklentiler buna göre hesaplanmalı.&lt;/p&gt;
-
-&lt;p&gt;Sağlığınıza.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 15 Dec 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/ficisertligi/bedbreast-12/</link>
-        <guid isPermaLink="true">http://localhost:4000/ficisertligi/bedbreast-12/</guid>
         
         <category>Whisky</category>
         

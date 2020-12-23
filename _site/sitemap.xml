@@ -49,6 +49,14 @@
 <lastmod>2020-12-19T00:00:00+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/ficisertligi/abunadh/</loc>
+<lastmod>2020-12-23T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/ficisertligi/uigeadail/</loc>
+<lastmod>2020-12-23T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/ficisertligi/about</loc>
 </url>
 <url>
@@ -76,7 +84,7 @@
 <loc>http://localhost:4000/ficisertligi/irish</loc>
 </url>
 <url>
-<loc>http://localhost:4000/ficisertligi/islay-peated-smokey</loc>
+<loc>http://localhost:4000/ficisertligi/islay-peated-smoky</loc>
 </url>
 <url>
 <loc>http://localhost:4000/ficisertligi/japan-asia</loc>
@@ -104,5 +112,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/ficisertligi/page2/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/ficisertligi/page3/</loc>
 </url>
 </urlset>

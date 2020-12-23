@@ -3,8 +3,8 @@ layout: post
 title:  "ARDBEG UIGEADAIL"
 author: emrah
 categories: [ islay ]
-tags: [ Whisky, Highland ]
-image: assets/images/Uigeadail/Uigedail.jpg
+tags: [ Whisky, Islay ]
+image: assets/images/uigeadail/uigeadail.jpg
 ---
 
 Adını damıtımevine su veren gölden alan Uigeadail, Gaelic dilinde "A dark mysterious place/Karanlık ve gizemli yer" anlamına geliyor. Kendisi Corryvreckan'dan sonra en sevdiğim Ardbeg ekspresyonu. 

@@ -9,7 +9,7 @@
 - cask-strength
 - highland
 - irish
-- islay-peated-smokey
+- islay-peated-smoky
 - japan-asia
 - lowland
 - speyside
