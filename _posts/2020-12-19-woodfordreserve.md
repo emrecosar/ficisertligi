@@ -2,7 +2,7 @@
 layout: post
 title:  "WOODFORD RESERVE"
 author: emrah
-categories: [ islay ]
+categories: [ bourbons ]
 image: assets/images/woodford_reserve/woodford_reserve.jpg
 rating: 4.5
 ---
