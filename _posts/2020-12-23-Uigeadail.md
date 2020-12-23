@@ -2,7 +2,7 @@
 layout: post
 title:  "ARDBEG UIGEADAIL"
 author: emrah
-categories: [ highland ]
+categories: [ islay ]
 tags: [ Whisky, Highland ]
 image: assets/images/Uigeadail/Uigedail.jpg
 ---
