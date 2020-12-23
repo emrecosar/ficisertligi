@@ -4,7 +4,8 @@ title:  "GLENFARCLAS 15"
 author: emrah
 categories: [ highland ]
 tags: [ Whisky, Highland ]
-image: assets/images/visky-2.jpeg
+image: assets/images/glenfarclas-15/glenfarclas-15.jpeg
+rating: 4.5
 ---
 
 Tam altı jenerasyondur "The Grants" tarafından yönetilen, 19. ve 20. yaşanan tüm resesyonlara rağmen ayakta kalmayı başaran ve viskilerini hiçbir zaman blended furyasına kurban etmeyen köklü Glenfarclas Damıtımevi'nin, aile tarafından da en çok tüketilen ekspresyonlardan biri olan Glenfarclas 15. 

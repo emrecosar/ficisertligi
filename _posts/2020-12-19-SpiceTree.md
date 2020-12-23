@@ -3,8 +3,9 @@ layout: post
 title:  "COMPASS BOX SPICE TREE"
 author: emrah
 categories: [ highland ]
-tags: [ Whisky ]
-image: "assets/images/Spice Tree/Spice Tree.jpg"
+tags: [ Whisky, Highland ]
+image: "assets/images/spice_tree/spice_tree.jpg"
+rating: 4.5
 ---
 
 

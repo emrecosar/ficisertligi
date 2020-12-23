@@ -1,0 +1,21 @@
+---
+layout: default
+title: Bourbons
+permalink: /bourbons
+---
+
+<!-- Posts Index
+================================================== -->
+<div class="blog-grid-container">
+    {% for post in site.categories.bourbons %}
+        {% include postbox.html %}
+    {% endfor %}
+</div>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>

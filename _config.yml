@@ -13,21 +13,11 @@ formspree_io_endpoint: https://formspree.io/f/mbjppjyr
 # Authors
 authors:
   emrah:
-    name: Emrah
-    display_name: Emrah
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    name: Fıçı Sertliği
+    display_name: Fıçı Sertliği
     email: ficisertligi@gmail.com
-    twitter: https://twitter.com/brutdefut
-    description: "Author of ficisertligi"
-  emre:
-    name: Emre
-    display_name: Emre
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: emrecosar@gmail.com
-    web: https://www.emrecosar.com
-    twitter: https://twitter.com/cosaremre
-    description: "This is Emre"
+    instagram: https://instagram.com/brutdefut
+    description: "ficisertligi.com yazarı"
 
 # Plugins
 plugins:
@@ -78,5 +68,5 @@ sass:
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 
 
-url: brutdefut.github.io
+url: https://brutdefut.github.io
 baseurl: /ficisertligi

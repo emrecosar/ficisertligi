@@ -1,0 +1,21 @@
+---
+layout: default
+title: From Japan & Asia
+permalink: /japan-asia
+---
+
+<!-- Posts Index
+================================================== -->
+<div class="blog-grid-container">
+    {% for post in site.categories.japan-asia %}
+        {% include postbox.html %}
+    {% endfor %}
+</div>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>

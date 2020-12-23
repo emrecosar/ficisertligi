@@ -4,7 +4,8 @@ title:  "AUCHENTOSHAN AMERICAN OAK"
 author: emrah
 categories: [ speyside ]
 tags: [ Whisky, Speyside ]
-image: assets/images/AmericanOak/AmericanOak.jpg
+image: assets/images/american_oak/american_oak.jpg
+rating: 4.5
 ---
 
 Viskisini üç kez damıtan tek İskoç olan ve adı Gaelic dilinde "Corner of the Field" anlamına gelen, 1824 yılında kurulan Auchentoshan Damıtımevi'nin 2014 çıkışlı ekspresyonu. (Aynı serinin 2014 yılından önceki adı "Au Classic" )

@@ -592,13 +592,6 @@ img, img:hover {
          display:none;
     }
 }
-body.active-side {
-    .bd-search {
-        visibility: visible;
-        opacity: 1;
-        transition: opacity 0.5s linear;
-    }
-}
 //footer
 .footer {
     margin-top:60px;

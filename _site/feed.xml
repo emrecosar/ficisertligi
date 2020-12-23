@@ -5,8 +5,8 @@
     <description>Simple Guide to Whiskey</description>
     <link>http://localhost:4000/ficisertligi/</link>
     <atom:link href="http://localhost:4000/ficisertligi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Dec 2020 00:34:43 +0100</pubDate>
-    <lastBuildDate>Wed, 23 Dec 2020 00:34:43 +0100</lastBuildDate>
+    <pubDate>Wed, 23 Dec 2020 21:47:38 +0100</pubDate>
+    <lastBuildDate>Wed, 23 Dec 2020 21:47:38 +0100</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -58,6 +58,8 @@ Piyasadaki en baharatlı viski olduğunu iddia eden single malt rakibi Mortlach 
         
         <category>Whisky</category>
         
+        <category>Highland</category>
+        
         
         <category>highland</category>
         
@@ -106,12 +108,12 @@ Sıcaklık ve nem nedeniyle hızlanan ve değişen olgunlaşma süreci, artan �
         
         <category>Whisky</category>
         
-        <category>Japanese</category>
+        <category>Japan</category>
         
         <category>Asia</category>
         
         
-        <category>japanese-asia</category>
+        <category>japan-asia</category>
         
       </item>
     
@@ -175,7 +177,7 @@ Soğutucu ile biber baskınlaşıyor ve tam anlamıyla yazlık bir viskiye dön�
         
         <category>Whisky</category>
         
-        <category>Speyside</category>
+        <category>Highland</category>
         
         
         <category>highland</category>
@@ -196,6 +198,10 @@ Soğutucu ile biber baskınlaşıyor ve tam anlamıyla yazlık bir viskiye dön�
         <pubDate>Wed, 16 Dec 2020 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/ficisertligi/cruach-mhona/</link>
         <guid isPermaLink="true">http://localhost:4000/ficisertligi/cruach-mhona/</guid>
+        
+        <category>Whisky</category>
+        
+        <category>Islay</category>
         
         
         <category>islay</category>
@@ -223,6 +229,8 @@ Olgunlaşmada ise ilk 12 yıl eski burbon, son 3 yıl ise tamamen Oloroso Şeri 
         
         <category>Whisky</category>
         
+        <category>Islay</category>
+        
         
         <category>islay</category>
         
@@ -246,6 +254,10 @@ Bitişte yine baharatlı, meşe ve kuru meyvelerin yanında uzun, sıcak ve kal�
         <pubDate>Tue, 15 Dec 2020 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/ficisertligi/bedbreast-12/</link>
         <guid isPermaLink="true">http://localhost:4000/ficisertligi/bedbreast-12/</guid>
+        
+        <category>Whisky</category>
+        
+        <category>Islay</category>
         
         
         <category>islay</category>
