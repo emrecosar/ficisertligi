@@ -2,7 +2,7 @@
 layout: post
 title:  "TALISKER NEIST POINT"
 author: emrah
-categories: [ islay ]
+categories: [ Islay & Peated & Smoky ]
 image: assets/images/neist_point/neist_point.jpg
 rating: 4.5
 ---
