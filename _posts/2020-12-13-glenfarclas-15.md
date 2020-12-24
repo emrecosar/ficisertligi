@@ -3,7 +3,6 @@ layout: post
 title:  "GLENFARCLAS 15"
 author: emrah
 categories: [ highland ]
-tags: [ Whisky, Highland ]
 image: assets/images/glenfarclas-15/glenfarclas-15.jpeg
 rating: 4.5
 ---

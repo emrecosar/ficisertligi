@@ -413,8 +413,8 @@ img, img:hover {
     text-align:center;
     margin-left:auto;
     margin-right: auto;
-    margin-top:50px;
-    margin-bottom:50px;
+    margin-top:30px;
+    margin-bottom:30px;
 }
 .image-shadow {   
     -webkit-box-shadow: 0 7px 50px 0 rgba(84,110,122,.15);
@@ -443,11 +443,17 @@ img, img:hover {
         padding:2px;
     }
 }
+.scroll-to-english {
+    max-width: 740px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
 .article-post {    
     font-size:18px;
     p {
-        margin-top:30px;
-        margin-bottom:30px;
+        margin-top:20px;
     }
     code {
         font-size: 15px;

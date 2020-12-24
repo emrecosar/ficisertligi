@@ -3,11 +3,10 @@ layout: post
 title:  "BUNNAHABHAIN CRUACH-MHONA"
 author: emrah
 categories: [ islay-peated-smoky ]
-tags: [ Whisky, Islay ]
 image: assets/images/cruach-mhona/cruach-mhona.jpg
 rating: 4.5
 ---
-(ENGLISH BELOW)
+
 Tüm ürünlerine heyecanla yaklaştığım ve denemek istediğim, marka ismi ve amblemine hayran olduğum Bunnahabhain Damıtımevi'nin "travel retail" piyasası için hazırlanmış ve adı Gaelic dilinde "peat stack/turba istifi" anlamına gelen limitli ekspresyonu.
 
 Burunda henüz uzaktan koklamaya başladığınız anda turba ile tatlı rayihaları aynı anda almanıza imkan veriyor. Sonrasında hafif meyve, vanilya ile yoğun medikal /hastane kokuları (yaptığımız tadımlardan birinde, çok sevdiğim bir dostumun kullandığı nokta atışı deyimiyle antiseptik) birlikte ilerliyor. 
@@ -18,6 +17,8 @@ Renklendirici yok, soğuk filtrasyon işleminden geçirilmiyor ve %50 abv ile ş
 Sağlığınıza. 
 
 ---------------------------------------------------------------------------------------
+
+<p id="english"></p>
 
 One of my favourite distilleries which keeps me excited for all its bottlings and their limited edition travel retail expression, meaning "peat stack" in Gaelic. 
 
