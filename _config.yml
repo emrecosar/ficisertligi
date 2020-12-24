@@ -8,7 +8,7 @@ google_analytics: 'UA-xxxxxxxx-1'
 include: ["_pages"]
 permalink: /:title/
 email: ficisertligi@gmail.com
-formspree_io_endpoint: https://formspree.io/f/mbjppjyr
+formspree_io_endpoint: https://formspree.io/f/mwkwwblp
 
 # Authors
 authors:
