@@ -2,7 +2,7 @@
 layout: post
 title:  "AUCHENTOSHAN AMERICAN OAK"
 author: emrah
-categories: [ Lowland ]
+categories: [ lowland ]
 tags: [ Whisky, Lowland ]
 image: assets/images/american_oak/american_oak.jpg
 rating: 4.5
