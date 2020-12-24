@@ -2,7 +2,7 @@
 layout: post
 title:  "BUNNAHABHAIN CRUACH-MHONA"
 author: emrah
-categories: [ Islay & Peated & Smoky ]
+categories: [ islay-peated-smoky ]
 tags: [ Whisky, Islay ]
 image: assets/images/cruach-mhona/cruach-mhona.jpg
 rating: 4.5
