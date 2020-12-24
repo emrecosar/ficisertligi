@@ -2,7 +2,7 @@
 layout: post
 title:  "ARDBEG UIGEADAIL"
 author: emrah
-categories: [ Islay & Peated & Smoky ]
+categories: [ Islay & Peated & Smoky, cask strength ]
 tags: [ Whisky, Islay ]
 image: assets/images/uigeadail/uigeadail.jpg
 ---
