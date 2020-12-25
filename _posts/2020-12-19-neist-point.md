@@ -18,3 +18,17 @@ Damıtımevi'nin tabiri ile "en iyi ve nadir" fıçılar seçiliyor ve Malt Usta
 Son zamanlarda bulunması gittikçe zorlaşan ve buna bağlı olarak fiyatı da artan viski, farklı bir deneyim yaşamak isteyen Talisker severler için ilginç bir deneyim olacaktır. 
 
 Sağlığınıza.
+
+----------------------------------------------------------------------
+
+A limited edition travel retail bottling from Talisker (Est. 1830, Hugh and Kenneth MacAskill Brothers) as a tribute to the most westerly place in Skye Island "Neist Point Lighthouse".
+
+Nose; honey, red fruits, caramel, sea weed, toasty oak and peat.
+Palate; iodine, peat, malt and sweet spice in a smooth and balanced way.
+Finish; more spice, malty dryness, peaty, long, warm and very satisfying.
+
+No age statement, non chill-filtered, 45,8% abv. Little bit different from classic Talisker style, because it's soft and light on body. 
+"Finest rare casks" were selected by Malt Master Craig Wilson according to the distillery to create this expression. 
+Nowadays, it's getting harder to find one and as a result, price increases. If you're seeking for an unusual experience, go for it.
+
+Cheers to all. 
