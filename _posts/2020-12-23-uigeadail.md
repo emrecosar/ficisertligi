@@ -10,7 +10,7 @@ Adını damıtımevine su veren gölden alan Uigeadail, Gaelic dilinde "A dark m
 
 Burunda is ve kırmızı meyve çok baskın. Aynı zamanda deniz kokusu (tersane, yosun), tütsülenmiş et ve tatlılık hissediliyor. Direkt olgunlaştığı fıçıdan şişelendiği için uzun ve derin koklayınca yakıcı oluyor. 
 Damakta is iyice baskınlaşıyor. Barbeküde pişirilmiş et kokuları damağın arkasını sarıyor. Peşine iyot ve karamelize şeker, tatlı-tuzlu bir arada sevenler için etkileyici ikili oluşturuyorlar. Dolu dolu, şaşırtıcı ve kadifemsi bir kıvama sahip.
-Bitiş çok uzun, sıcacık ve bahratlı.Burundaki kırmızı meyve sonradan devam etmiyor. İs ve tütsülenmiş et sizi alıp götürüyor. 
+Bitiş çok uzun, sıcacık ve baharatlı. Burundaki kırmızı meyve sonradan devam etmiyor. İs ve tütsülenmiş et sizi alıp götürüyor. 
 Kadehte bekledikçe daha tatlı, uslu ve naif karaktere bürünüyor. 
 
 %52,2 ile fıçı sertliğinde (cask strength/brut de fut), NAS (yaş ibaresi yok), soğuk filtrasyon işlemi uygulanmadan, renklendirici kullanılmadan (ex-sherry fıçılardaki yıllanmadan kaynaklı Ardbeg'de pek rastlanmayan amber rengi) şişeleniyor. 
