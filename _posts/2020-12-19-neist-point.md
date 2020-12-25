@@ -4,7 +4,8 @@ title:  "TALISKER NEIST POINT"
 author: emrah
 categories: [ islay-peated-smoky ]
 image: assets/images/neist_point/neist_point.jpg
-rating: 4.5
+preview-tr: Neist Point Feneri'ne ithafen çıkarılan limitli "travel retail" ekspresyonu.
+preview-en: A limited edition bottling from Talisker.
 ---
 İki kardeş Hugh ve Kenneth MacAskill tarafından 1830 yılında kurulan, 1960 yılında tamamen yanmasına rağmen kökenlerine sadık kalınarak yeni baştan inşa edilen Talisker Damıtımevi'nin, Skye Adası'nın en batı ucunda yer alan Neist Point Feneri'ne ithafen limitli sayıda piyasaya çıkardığı "travel retail" ekspresyonu.
 
