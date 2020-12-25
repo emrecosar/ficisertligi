@@ -21,6 +21,8 @@ Sağlığınıza.
 
 ----------------------------------------------------------------------
 
+<p id="english"></p>
+
 A limited edition travel retail bottling from Talisker (Est. 1830, Hugh and Kenneth MacAskill Brothers) as a tribute to the most westerly place in Skye Island "Neist Point Lighthouse".
 
 Nose; honey, red fruits, caramel, sea weed, toasty oak and peat.
