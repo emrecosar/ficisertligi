@@ -25,7 +25,11 @@
                 </div>
                 {% endif %}
             </h2>
-            <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4>
+            <h4 class="card-text">
+                {{ post.preview-tr | strip_html | truncatewords:15 }} 
+                <hr> 
+                {{ post.preview-en | strip_html | truncatewords:15 }} 
+            </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
