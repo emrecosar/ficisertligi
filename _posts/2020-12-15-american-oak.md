@@ -2,7 +2,7 @@
 layout: post
 title:  "AUCHENTOSHAN AMERICAN OAK"
 author: emrah
-categories: [ lowland ]
+categories: [ lowland-irish ]
 image: assets/images/american_oak/american_oak.jpg
 rating: 4.5
 ---
