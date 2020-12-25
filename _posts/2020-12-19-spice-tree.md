@@ -26,3 +26,18 @@ EK BİLGİ: Compass Box Firması ekibini "whiskymaker" olarak tanımlıyor. Anla
 "A whiskymaker is different from a distiller, more than a blender."  Yaklaşımları biraz havalı ve farklı. Tanımlarından yola çıkarak değil ama bu güzel ekspresyonla beni etkilemeyi başardıklarını söyleyebilirim. 
 
 Sağlığınıza.
+
+--------------------------------------------------------------------
+
+In recent years, popular independent bottler Compass Box did amazing blended whiskies and Spice Tree is a good example for spicy whisky lovers around the world. 
+
+Nose; rich spice strikes first and then honey appears. Soft and smooth with a touch of oak.
+Palate; more spice, red/black pepper, ginger and more to come, like its name offered. A delicious and fun burn which comes from all spice. (One of my friends once told that "Like we're drinking in a Spice Bazaar")
+Finish; more spice, malt, oak, long, warm and sweet. 
+
+Natural colour, non chill-filtered, 46% abv and label says "hi" to one of my favourite artists, Gustav Klimt. 
+Spice Tree blend contains mostly Highland whiskies like Clynelish, Dailuaine and some more. For maturing, company uses special oak casks created by themselves. 
+
+It's one of the best blends i've ever tasted. If you are a spice person like me, you're gonna love it but if not, pass this one. 
+
+Cheers to all.
