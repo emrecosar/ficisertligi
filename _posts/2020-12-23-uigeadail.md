@@ -8,7 +8,7 @@ preview-tr: Uigeadail "A dark mysterious place/Karanlık ve gizemli yer" anlamı
 preview-en: Uigeadail is a cask strength expression from Ardbeg core range.
 ---
 
-Adını damıtımevine su veren gölden alan Uigeadail, Gaelic dilinde "A dark mysterious place/Karanlık ve gizemli yer" anlamına geliyor. Kendisi Corryvreckan'dan sonra en sevdiğim Ardbeg ekspresyonu. 
+Adını damıtımevine su veren gölden alan Uigeadail, Gaelic dilinde *"A dark mysterious place/Karanlık ve gizemli yer"* anlamına geliyor. Kendisi Corryvreckan'dan sonra en sevdiğim Ardbeg ekspresyonu. 
 
 Burunda is ve kırmızı meyve çok baskın. Aynı zamanda deniz kokusu (tersane, yosun), tütsülenmiş et ve tatlılık hissediliyor. Direkt olgunlaştığı fıçıdan şişelendiği için uzun ve derin koklayınca yakıcı oluyor. 
 Damakta is iyice baskınlaşıyor. Barbeküde pişirilmiş et kokuları damağın arkasını sarıyor. Peşine iyot ve karamelize şeker, tatlı-tuzlu bir arada sevenler için etkileyici ikili oluşturuyorlar. Dolu dolu, şaşırtıcı ve kadifemsi bir kıvama sahip.
