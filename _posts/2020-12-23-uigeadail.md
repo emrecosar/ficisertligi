@@ -4,6 +4,8 @@ title:  "ARDBEG UIGEADAIL"
 author: emrah
 categories: [ islay-peated-smoky, cask-strength ]
 image: assets/images/uigeadail/uigeadail.jpg
+preview-tr: Uigeadail "A dark mysterious place/Karanlık ve gizemli yer" anlamına geliyor. 
+preview-en: Uigeadail is a cask strength expression from Ardbeg core range.
 ---
 
 Adını damıtımevine su veren gölden alan Uigeadail, Gaelic dilinde "A dark mysterious place/Karanlık ve gizemli yer" anlamına geliyor. Kendisi Corryvreckan'dan sonra en sevdiğim Ardbeg ekspresyonu. 
