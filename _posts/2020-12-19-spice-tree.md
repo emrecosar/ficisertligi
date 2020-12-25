@@ -9,6 +9,7 @@ preview-tr: Compass Box'ın baharatlı viski sevenler için hazırladığı eksp
 preview-en: From Compass Box for spicy whisky lovers. 
 ---
 
+<p id="english"></p>
 
 Son yılların en çok sevilen "blended" viski markalarınden biri olan, tüm etiketlerinde muhteşem sanat eserlerine yer veren ya da atıfta bulunan bağımsız şişeleyici Compass Box'ın, baharat sevenler için hazırladığı ekspresyon.
 
