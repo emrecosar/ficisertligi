@@ -5,6 +5,8 @@ author: emrah
 categories: [ islay-peated-smoky ]
 image: assets/images/cruach-mhona/cruach-mhona.jpg
 rating: 4.5
+preview-tr: Adı "peat stack/turba istifi" anlamına gelen limitli ekspresyon.
+preview-en: Limited edition expression from Bunnahabhain, meaning "peat stack".
 ---
 
 Tüm ürünlerine heyecanla yaklaştığım ve denemek istediğim, marka ismi ve amblemine hayran olduğum Bunnahabhain Damıtımevi'nin "travel retail" piyasası için hazırlanmış ve adı Gaelic dilinde "peat stack/turba istifi" anlamına gelen limitli ekspresyonu.
