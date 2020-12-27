@@ -4,7 +4,7 @@ title: "Fıçı Sertliği | Brut De Fût"
 description: "Simple Guide to Whisky"
 logo: 'assets/images/logo.png'
 favicon: 'favicon.ico'
-google_analytics: 'UA-xxxxxxxx-1'
+google_analytics: 'UA-257229319-1'
 include: ["_pages"]
 permalink: /:title/
 email: ficisertligi@gmail.com
