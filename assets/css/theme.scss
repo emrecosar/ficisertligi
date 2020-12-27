@@ -36,7 +36,7 @@ h1,h2,h3,h4,h5,h6 {
     font-weight:700;
 }
 .site-content {
-    padding-top:50px;
+    padding-top:25px;
 }
 .sitetag {
     font-weight:700;    
@@ -197,6 +197,7 @@ img, img:hover {
     margin: 0;
     transform: translate(-100%, 0);
     z-index: 1022;
+    overflow-y: scroll;
     &.active {
         transform: translate(0%, 0);
     }
@@ -232,7 +233,7 @@ img, img:hover {
 // blog grid
 .blog-grid-container {
     width: auto;
-    margin: 50px auto;
+    margin: 25px auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr;
@@ -696,7 +697,7 @@ img, img:hover {
     }
     
     #menu ul {
-        padding: 80px 30px 80px 30px;
+        padding: 60px 30px 60px 30px;
     }
     .related-posts {
         h2 {

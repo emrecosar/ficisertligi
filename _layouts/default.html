@@ -87,7 +87,7 @@ ga('send', 'pageview');
             <li class="sub"><a href="{{ site.baseurl }}/blended">Blended</a></li>
         </li>
         <li><a href="{{ site.baseurl }}/about">About</a></li>
-        <li><a href="{{ site.baseurl }}/contact">Contact</a></li>       
+        <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
     </ul>   
 </nav>
 
@@ -130,7 +130,13 @@ ga('send', 'pageview');
 <footer class="footer">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-sm-12 text-center text-lg-left">
+            <div class="col-md-4 col-sm-12 text-center text-lg-left">
+                <div class="col-md-4 col-sm-12 text-center text-lg-left">
+                    <a href="{{ site.baseurl }}/about">About</a>
+                </div>
+                <a href="{{ site.baseurl }}/contact">Contact</a>
+            </div>
+            <div class="col-md-4 col-sm-12 text-center text-lg-left">
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
             </div>
         </div>
