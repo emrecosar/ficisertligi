@@ -4,7 +4,7 @@ title:  "COMPASS BOX SPICE TREE"
 author: emrah
 categories: [ blended ]
 image: "assets/images/spice_tree/spice_tree.jpg"
-rating: 4.5
+rating: 4
 preview-tr: Compass Box'ın baharatlı viski sevenler için hazırladığı ekspresyon.
 preview-en: From Compass Box for spicy whisky lovers. 
 ---
