@@ -82,6 +82,7 @@ $(document).ready(function(){
 	});
 	$(".nav-icon").click(function(){
 		$("body").toggleClass('active-side');
+		$('body').toggleClass("fixed-position");
 	});
 });
 
@@ -98,6 +99,7 @@ $(document).ready(function(){
 	});
 	$("#blackover-nav").click(function(){
 		$("body").removeClass('active-side');
+		$('body').removeClass("fixed-position");
 	});
 });
 
@@ -117,6 +119,7 @@ $(document).keyup(function(e) {
 		$("#menu").removeClass('active');
 		$("#blackover-nav").removeClass('active');
 		$("body").removeClass('active-side');
+		$('body').removeClass("fixed-position");
 	}
 });
 
