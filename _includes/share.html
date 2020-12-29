@@ -1,8 +1,12 @@
 <div class="share">
-    <p>
-        Share
-    </p>
     <ul>
+
+        <li class="ml-1 mr-1">
+            <a id="share-link" target="_blank" onclick="share( '{{ page.url | absolute_url }}', '{{ page.title }}' );">
+                <i class="fas fa-share"></i>
+            </a>
+        </li>
+
         <li class="ml-1 mr-1">
             <a target="_blank" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ page.url | absolute_url }}" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
                 <i class="fab fa-twitter"></i>
@@ -17,3 +21,19 @@
 
     </ul>
 </div>
+
+<script>
+    function share(title, url) {
+        if (navigator.share) {
+            navigator.share({
+                title: title,
+                url: url
+            }).then(() => {
+                console.log('Thanks for sharing!');
+            })
+            .catch(console.error);
+        } else {
+            // shareDialog.classList.add('is-open');
+        }
+    }
+</script>
