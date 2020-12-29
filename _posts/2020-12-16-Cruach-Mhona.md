@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BUNNAHABHAIN CRUACH-MHONA"
-author: emrah
+author: ficisertligi
 categories: [ islay-peated-smoky ]
 image: assets/images/cruach-mhona/cruach-mhona.jpg
 rating: 4.5

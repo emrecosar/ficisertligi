@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "WOODFORD RESERVE"
-author: emrah
+author: ficisertligi
 categories: [ bourbons ]
 image: assets/images/woodford_reserve/woodford_reserve.jpg
 rating: 4

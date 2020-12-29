@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "COMPASS BOX SPICE TREE"
-author: emrah
+author: ficisertligi
 categories: [ blended ]
 image: "assets/images/spice_tree/spice_tree.jpg"
 rating: 4

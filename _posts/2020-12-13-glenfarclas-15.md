@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GLENFARCLAS 15"
-author: emrah
+author: ficisertligi
 categories: [ highland ]
 image: assets/images/glenfarclas-15/glenfarclas-15.jpeg
 rating: 4.5
