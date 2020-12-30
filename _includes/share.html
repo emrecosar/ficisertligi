@@ -1,8 +1,10 @@
 <div class="share">
     <ul>
-
-        <li class="ml-1 mr-1">
-            <a id="share-link" target="_blank" onclick="share( '{{ page.title }}', '{{ site.url }}{{ site.baseurl }}{{ page.url }}' );">
+        <p>
+            Share
+        </p>
+        <li id="native-share" class="ml-1 mr-1">
+            <a target="_blank" onclick="share( '{{ page.title }}', '{{ site.url }}{{ site.baseurl }}{{ page.url }}' );">
                 <i class="fas fa-share"></i>
             </a>
         </li>
@@ -23,6 +25,15 @@
 </div>
 
 <script>
+    
+    document.addEventListener('readystatechange', () => {    
+        if (document.readyState == 'complete') {
+            if (!navigator.share) {
+                document.getElementById("native-share").remove();
+            }
+        }
+    });
+
     function share(title, url) {
         if (navigator.share) {
             navigator.share({
@@ -33,7 +44,8 @@
             })
             .catch(console.error);
         } else {
-            // shareDialog.classList.add('is-open');
+            console.log("Sorry, share is not possible!");
         }
     }
+    
 </script>

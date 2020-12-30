@@ -52,7 +52,9 @@ post_class: post-template
 {% include author-box.html %}
 
 <!-- Comments if not disabled with comments: false -->
-{% include comments.html %}
+{% if page.disqus == 'true' %}
+    {% include comments.html %}
+{% endif %}
 
 <!-- Share -->
 {% include share.html %}
