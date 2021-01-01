@@ -24,27 +24,30 @@
     <link rel="icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon">
 
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Fici Sertligi" />
-    <meta property="og:description" content="{{ page.title }}" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ site.description }}" />
     <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
     <meta property="og:site_name" content="{{ page.title }}" />
+    {% if page.image %}
     <meta property="og:image" itemprop="image" content="{{ site.url }}{{ site.baseurl }}/{{ page.image }}" />
+    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/{{ page.image }}">
+    {% else %}
+    <meta property="og:image" itemprop="image" content="{{ site.url }}{{ site.baseurl }}/{{ site.logo }}" />
+    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/{{ site.logo }}">
+    {% endif %}
     <meta property="og:image:type" content="image/jpg" />
     <meta property="og:image:width" content="300" />
     <meta property="og:image:height" content="200" />
 
     <meta name="twitter:card" content="summary"></meta>
-    <meta name="twitter:title" content="@brutdefut" />
-    <meta name="twitter:creator" content="@brutdefut" />
+    <meta name="twitter:title" content="@ficisertligi" />
+    <meta name="twitter:creator" content="@ficisertligi" />
     <meta name="twitter:description" content="{{ page.title }}">
-    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/{{ page.image }}">
 
     <link rel="alternate" type="application/atom+xml" title="Fici Sertligi’s blog" href="/feed.xml">
 
     <link rel="manifest" href="{{ site.baseurl }}/manifest.json">
     <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}"/>
-
-    <title>{{ page.title }} | {{site.name}}</title>
 
     {% seo %}
         
@@ -52,8 +55,6 @@
     <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
 
     <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-
-
 </head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
@@ -67,7 +68,6 @@
 
     <!-- Begin Sidebar Navigation
     ================================================== -->
-
     <div class="sidebar">    
     </div>   
     <div class="nav-icon">
@@ -96,7 +96,6 @@
 
     <!-- End Sidebar Navigation
     ================================================== -->
-
     <div class="site-content {% if page.url == '/' %} firstpage {% endif %}">
 
         <div class="container">
