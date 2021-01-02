@@ -762,42 +762,48 @@ img, img:hover {
     -moz-transform:translate(-50%,-50%);
     -webkit-transform: translate(-50%,-50%);
     transform: translate(-50%,-50%);
-    .cnt223 {
-        min-width: 600px;
-        width: 600px;
-        min-height: 150px;
-        margin: 100px auto;
-        background: #f3f3f3;
-        position: relative;
-        z-index: 103;
-        padding: 15px 35px;
-        border-radius: 5px;
-        box-shadow: 0 2px 5px #000;
-        a {
-            text-decoration: none;
-        }
-        p {
-            clear: both;
-            color: #555555;
-            /* text-align: justify; */
-            font-size: 20px;
-            font-family: sans-serif;
-        }
-        .x {
-            float: right;
-            height: 35px;
-            left: 22px;
-            position: relative;
-            top: -25px;
-            width: 34px;
-            &:hover {
-                cursor: pointer;
-            }
-        }
-        .btn {
-            margin: 5px;
-        }
-    }
+}
+
+.cnt223 {
+    min-width: 600px;
+    width: 600px;
+    min-height: 150px;
+    margin: 100px auto;
+    background: #f3f3f3;
+    position: relative;
+    z-index: 103;
+    padding: 15px 35px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px #000;
+}
+
+.cnt223 a {
+    text-decoration: none;
+}
+
+.cnt223 p {
+    clear: both;
+    color: #555555;
+    /* text-align: justify; */
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.cnt223 .x {
+    float: right;
+    height: 35px;
+    left: 22px;
+    position: relative;
+    top: -25px;
+    width: 34px;
+}
+
+.cnt223 .x:hover {
+    cursor: pointer;
+}
+
+.cnt223 .btn {
+    margin: 5px;
 }
 
 @media screen and (max-width: 600px) {

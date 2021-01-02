@@ -198,20 +198,26 @@ $(document).ready(function(){
 		overlay.appendTo(document.body);
 		$('.popup').show();
 		$('.popup #yes').click(function(){
-			setCookie("agepopshown", 1,  365 );
+			setCookie("agepopshown", 1,  2);
 			$('.popup').hide();
 			overlay.appendTo(document.body).remove();
+			$('body').removeClass("fixed-position");
 			return false;
 		});
 		$('.popup #no').click(function(){
-			window.history.go(-2);
+			if (window.history.length > 1 ) {
+				window.history.go(-1);
+			}
+			$('body').removeClass("fixed-position");
 			return false;
 		});
 		$('.x').click(function(){
 			$('.popup').hide();
 			overlay.appendTo(document.body).remove();
+			$('body').removeClass("fixed-position");
 			return false;
 		});
+		$('body').addClass('fixed-position');
 	}
 });
 		
