@@ -168,12 +168,59 @@ $(document).ready(function(){
 
 });
 
+function setCookie(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+    var expires = "expires="+d.toUTCString();
+    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
 
-// DOCS
+function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+        }
+    }
+    return "";
+}
 
 $(document).ready(function(){
-    
+	var cookie = getCookie("agepopshown");
+	if(cookie !== 1){
+		var overlay = $('<div id="overlay"></div>');
+		overlay.show();
+		overlay.appendTo(document.body);
+		$('.popup').show();
+		$('.popup #yes').click(function(){
+			setCookie("agepopshown", 1,  365 );
+			$('.popup').hide();
+			overlay.appendTo(document.body).remove();
+			return false;
+		});
+		$('.popup #no').click(function(){
+			window.history.go(-2);
+			return false;
+		});
+		$('.x').click(function(){
+			$('.popup').hide();
+			overlay.appendTo(document.body).remove();
+			return false;
+		});
+	}
+});
+		
+function goBack() {
+	window.history.go(-2);
+}
 
+// DOCS
+$(document).ready(function(){
      //Check to see if the back-menu is in the div
     $(window).scroll(function(){
         if ($(this).scrollTop() > 130) {
@@ -181,7 +228,5 @@ $(document).ready(function(){
         } else {
             $('.back-page-button-dark').addClass('back-page-button-w');
         }
-    });
-
-
+	});
 });
