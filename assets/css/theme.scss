@@ -18,7 +18,7 @@ $enable-rounded: false;
 
 // general
 body, input, button, select, optgroup, textarea {   
-    font-family:Sen;
+    font-family: 'Petrona', serif;
 }
 body {
     line-height:1.7;
@@ -57,7 +57,7 @@ h1,h2,h3,h4,h5,h6 {
     min-width: 180px;
 }
 blockquote {
-    font-family: Times New Roman;
+    font-family: 'Petrona', serif;
     font-style: italic;
     font-size: 20px;
     position:relative;
@@ -497,7 +497,7 @@ img, img:hover {
         line-height: 1;
         padding: 2px 3px;
         width: 150px;
-        font-family: Arial;
+        font-family: 'Petrona', serif;
         text-align: center;
         border-radius: 3px;
         transition: all .4s;
@@ -790,7 +790,7 @@ img, img:hover {
     color: #555555;
     /* text-align: justify; */
     font-size: 9px;
-    font-family: sans-serif;
+    font-family: 'Petrona', serif;
 }
 
 .popup-container .x {
