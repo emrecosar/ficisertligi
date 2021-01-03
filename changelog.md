@@ -1,5 +1,21 @@
 # Memoirs Jekyll Theme by WowThemes - Change Log
 
+## 2020-12-11, v3.0.0
+- versioning for 3.0.0
+
+## 2020-12-11, v2.0.x
+### Added
+- add scroll to side menu and lock main content
+- add about and contact links to footer
+- native share button added with control
+- google analytics added
+- Legal age popup added
+### Changed
+- metatag updates
+- favicon.ico pack updates
+- Google fonts Petrona
+#### there are some commits which are not version, all of them combined in this x version
+
 ## 2020-12-11, v2.0.1
 - ficisertlifi cleanup
 
@@ -13,4 +29,4 @@
 - responsive tweaks
 
 ## 2020-04-04, v1.0.0
-
+- initial commit
