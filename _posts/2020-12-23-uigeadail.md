@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ARDBEG UIGEADAIL"
-author: ficisertligi
+author: brutdefut
 categories: [ islay-peated-smoky, cask-strength ]
 image: assets/images/uigeadail/uigeadail.jpg
 preview-tr: Uigeadail "A dark mysterious place/Karanlık ve gizemli yer" anlamına geliyor. 
