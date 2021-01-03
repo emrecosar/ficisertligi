@@ -3,7 +3,7 @@ layout: post
 title:  "AUCHENTOSHAN AMERICAN OAK"
 author: brutdefut
 categories: [ lowland-irish ]
-image: assets/images/american_oak/american_oak.jpg
+image: "assets/images/americanoak-2/americanoak-2.jpg"
 rating: 3
 ---
 
