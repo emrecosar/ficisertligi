@@ -750,7 +750,7 @@ img, img:hover {
     z-index: 100;
 }
 
-.popup {
+.legal-age-popup {
     width: 100%;
     margin: 0 auto;
     display: none;
@@ -764,7 +764,7 @@ img, img:hover {
     transform: translate(-50%,-50%);
 }
 
-.cnt223 {
+.popup-container {
     min-width: 600px;
     width: 600px;
     min-height: 150px;
@@ -777,15 +777,15 @@ img, img:hover {
     box-shadow: 0 2px 5px #000;
 }
 
-.cnt223 a {
+.popup-container a {
     text-decoration: none;
 }
 
-.cnt223 h1 {
+.popup-container h1 {
     font-size: 1.5rem;
 }
 
-.cnt223 p {
+.popup-container p {
     clear: both;
     color: #555555;
     /* text-align: justify; */
@@ -793,7 +793,7 @@ img, img:hover {
     font-family: sans-serif;
 }
 
-.cnt223 .x {
+.popup-container .x {
     float: right;
     height: 35px;
     left: 22px;
@@ -802,22 +802,22 @@ img, img:hover {
     width: 34px;
 }
 
-.cnt223 .x:hover {
+.popup-container .x:hover {
     cursor: pointer;
 }
 
-.cnt223 .btn {
+.popup-container .btn {
     margin: 5px;
 }
 
 @media screen and (max-width: 600px) {
-    .cnt223 {
+    .popup-container {
         min-width: 400px;
         width: 400px;
     }
 }
 @media screen and (max-width: 480px) {
-    .cnt223 {
+    .popup-container {
         min-width: 300px;
         width: 300px;
     }

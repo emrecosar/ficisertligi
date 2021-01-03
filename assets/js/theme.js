@@ -191,20 +191,21 @@ function getCookie(cname) {
 }
 
 $(document).ready(function() {
-	var cookie = getCookie("agepopshown");
+	var fici_sertligi_legal_age_popup = "fici-sertligi-legal-age-popup";
+	var cookie = getCookie(fici_sertligi_legal_age_popup);
 	if(undefined != cookie && cookie !== "1") {
 		var overlay = $('<div id="overlay"></div>');
 		overlay.show();
 		overlay.appendTo(document.body);
-		$('.popup').show();
-		$('.popup #yes').click(function(){
-			setCookie("agepopshown", 1,  2);
-			$('.popup').hide();
+		$('.legal-age-popup').show();
+		$('.legal-age-popup #yes').click(function(){
+			setCookie(fici_sertligi_legal_age_popup, 1,  2);
+			$('.legal-age-popup').hide();
 			overlay.appendTo(document.body).remove();
 			$('body').removeClass("fixed-position");
 			return false;
 		});
-		$('.popup #no').click(function() {
+		$('.legal-age-popup #no').click(function() {
 			if (window.history.length > 1 ) {
 				window.history.go(-1);
 			}
@@ -212,7 +213,7 @@ $(document).ready(function() {
 			return false;
 		});
 		$('.x').click(function() {
-			$('.popup').hide();
+			$('.legal-age-popup').hide();
 			overlay.appendTo(document.body).remove();
 			$('body').removeClass("fixed-position");
 			return false;
