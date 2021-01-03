@@ -192,7 +192,7 @@ function getCookie(cname) {
 
 $(document).ready(function(){
 	var cookie = getCookie("agepopshown");
-	if(cookie !== 1){
+	if(undefined != cookie && cookie !== "1") {
 		var overlay = $('<div id="overlay"></div>');
 		overlay.show();
 		overlay.appendTo(document.body);
@@ -204,14 +204,14 @@ $(document).ready(function(){
 			$('body').removeClass("fixed-position");
 			return false;
 		});
-		$('.popup #no').click(function(){
+		$('.popup #no').click(function() {
 			if (window.history.length > 1 ) {
 				window.history.go(-1);
 			}
 			$('body').removeClass("fixed-position");
 			return false;
 		});
-		$('.x').click(function(){
+		$('.x').click(function() {
 			$('.popup').hide();
 			overlay.appendTo(document.body).remove();
 			$('body').removeClass("fixed-position");
