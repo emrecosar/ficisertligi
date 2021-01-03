@@ -190,7 +190,7 @@ function getCookie(cname) {
     return "";
 }
 
-$(document).ready(function(){
+$(document).ready(function() {
 	var cookie = getCookie("agepopshown");
 	if(undefined != cookie && cookie !== "1") {
 		var overlay = $('<div id="overlay"></div>');
