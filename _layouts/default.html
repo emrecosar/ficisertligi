@@ -147,6 +147,8 @@
         <!-- End Footer
         ================================================== -->
 
+        {% include legal-age-popup.html %}
+
     </div> <!-- /.site-content -->
 
     <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
@@ -165,33 +167,6 @@
             <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
         {% endif %}
     {% endif %}
-
-    <style type="text/css">
- 
-    </style>
-    <div class='legal-age-popup'>
-        <div class='popup-container'>
-            <div class="row">
-                <div class="col-md-12 col-sm-12 text-center text-lg-center">
-                    <h1>18 yaşından büyük müsünüz?</h1>
-                    <h1>Are you of legal age 18?</h1>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-6 col-sm-12 text-center text-lg-center">
-                    <button id="yes" class="btn btn-success rounded">Evet</button>
-                </div>
-                <div class="col-md-6 col-sm-12 text-center text-lg-center">
-                    <button id="no" class="btn btn-warning rounded">Hayır</button>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12 col-sm-12 text-center text-lg-center">
-                    <p> Blog yazıları reklam, özendirme ve tanıtım amaçlı değildir.</p>
-                </div>
-            </div>
-        </div>
-    </div>
 
 </body>
 </html>
