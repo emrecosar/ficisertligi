@@ -3,7 +3,7 @@ layout: post
 title:  "GLENFARCLAS 15"
 author: brutdefut
 categories: [ highland ]
-image: assets/images/glenfarclas-15/glenfarclas-15.jpeg
+image: "assets/images/glenfarclas15-2/glenfarclas15-2.jpg"
 rating: 4.5
 ---
 
