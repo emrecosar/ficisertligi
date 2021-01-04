@@ -3,7 +3,7 @@ layout: post
 title:  "BUNNAHABHAIN CRUACH-MHONA"
 author: brutdefut
 categories: [ islay-peated-smoky ]
-image: assets/images/cruach-mhona/cruach-mhona.jpg
+image: "assets/images/cruachmhona-2/cruachmhona-2.jpg"
 rating: 4.5
 preview-tr: Adı "peat stack/turba istifi" anlamına gelen limitli ekspresyon.
 preview-en: Limited edition expression from Bunnahabhain, meaning "peat stack".

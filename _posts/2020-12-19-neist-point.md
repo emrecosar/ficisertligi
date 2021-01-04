@@ -3,7 +3,7 @@ layout: post
 title:  "TALISKER NEIST POINT"
 author: brutdefut
 categories: [ islay-peated-smoky ]
-image: assets/images/neist_point/neist_point.jpg
+image: assets/images/neistpoint-2/neistpoint-2.jpg
 rating: 3.5
 preview-tr: Neist Point Feneri'ne ithafen çıkarılan limitli "travel retail" ekspresyonu.
 preview-en: A limited edition bottling from Talisker.

@@ -3,7 +3,7 @@ layout: post
 title:  "WOODFORD RESERVE"
 author: brutdefut
 categories: [ bourbons ]
-image: assets/images/woodford_reserve/woodford_reserve.jpg
+image: assets/images/woodford-2/woodford-2.jpg
 rating: 4
 ---
 1812 kuruluş tarihi ile Kentucky'nin en eski damıtımevi olan ve Elijah Pepper tarafından kurulan markanın, ilk kez 1996'da piyasaya sürülen "Distiller's Select" ekspresyonu. 
