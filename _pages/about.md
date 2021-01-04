@@ -15,4 +15,3 @@ Simple Guide to Whiskey\
 🥃Fun Facts
 
 <a target="_blank" href="https://www.instagram.com/brutdefut/" class="btn btn-dark"> Instagram &rarr;</a>
-

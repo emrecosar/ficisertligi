@@ -1,5 +1,8 @@
 # Memoirs Jekyll Theme by WowThemes - Change Log
 
+## 2020-12-11, v3.0.2
+- Pinterest save button added
+
 ## 2020-12-11, v3.0.1
 - update readme.md for how to update fonts
 - update author name
