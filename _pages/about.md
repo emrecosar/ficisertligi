@@ -14,4 +14,25 @@ Simple Guide to Whiskey\
 📸Amateur Shots\
 🥃Fun Facts
 
-<a target="_blank" href="https://www.instagram.com/brutdefut/" class="btn btn-dark"> Instagram &rarr;</a>
+<div class="share">
+    <ul>
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://www.instagram.com/brutdefut">
+                <i class="fab fa-instagram"></i>
+            </a>
+        </li>
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://www.twitter.com/ficisertligi">
+                <i class="fab fa-twitter"></i>
+            </a>
+        </li>
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://www.facebook.com/brut.defut.3">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+        </li>
+        <li>
+            <a target="_blank" href="https://www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"></a>
+        </li>
+    </ul>
+</div>
