@@ -3,6 +3,7 @@
 ## 2020-12-11, v3.0.3
 - Pinterest save button updated to "just-icon"version
 - add social media links to landing and all other sub pages
+    - there is a code duplicated for `link-to-social-media.html` content in `about.md` file
 
 ## 2020-12-11, v3.0.2
 - Pinterest save button added
