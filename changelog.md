@@ -1,7 +1,8 @@
 # Memoirs Jekyll Theme by WowThemes - Change Log
 
 ## 2020-12-11, v3.0.3
-- Pinterest save button updated to "just-icon"version
+- Pinterest save button updated to "just-icon" version
+- Pinterest about and landing page links to ficisertligi profile
 - add social media links to landing and all other sub pages
 
 ## 2020-12-11, v3.0.2
