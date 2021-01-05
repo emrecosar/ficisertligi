@@ -22,6 +22,8 @@ Sağlığınıza.
 
 ---------------------------------------------------------------------------
 
+<p id="english"></p>
+
 Uigeadail is a cask strength expression from Ardbeg core range and name comes from a lake near the distillery which means "a dark mysterious place" in Gaelic (This lake provides water to the distillery by the way).
 
 Nose; peat and red fruits are fighting for dominance. Behind them sea weed, smoked meat and sweetness. When smelling closely, you can feel the burn from alcohol because of the high abv.
