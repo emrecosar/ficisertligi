@@ -538,6 +538,7 @@ img, img:hover {
     z-index: 1026;
     text-align:center;
     font-size: 25px;
+    padding-top: 10px;
     ul {
         list-style:none;
         padding-left:0;
@@ -545,6 +546,9 @@ img, img:hover {
             margin:15px 0;
             a {
                 color:$dark;
+            }
+            span {
+                vertical-align: text-bottom;
             }
         }
     }
@@ -698,7 +702,7 @@ img, img:hover {
         left: 0px;
     }
     .share ul {
-        padding-left: revert;
+        margin: auto;
         li {
             display:inline-block;
             margin: 10px 15px !important;
