@@ -15,11 +15,6 @@ Simple Guide to Whiskey\
 
 <div class="share">
     <ul>
-        <li id="native-share" class="ml-1 mr-1">
-            <a target="_blank" onclick="share( '{{ page.title }}', '{{ site.url }}{{ site.baseurl }}{{ page.url }}' );">
-                <i class="fas fa-share"></i>
-            </a>
-        </li>
         <li class="ml-1 mr-1">
             <a target="_blank" href="https://www.instagram.com/brutdefut">
                 <i class="fab fa-instagram"></i>
