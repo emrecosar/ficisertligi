@@ -36,7 +36,7 @@ post_class: post-template
 <!-- Featured Image -->
 {% include featured-image.html %}
 
-<p class="scroll-to-english"><a href="#english">Scroll to English ⬇</a></p>
+<p class="scroll-to-english"><a href="#english">Scroll to English</a></p>
 
 <!-- Content -->
 {% include article.html %}
@@ -79,7 +79,7 @@ https://search.google.com/structured-data/testing-tool/u/0/
     "name": "{{ author.display_name }}"
     },
     "datePublished": "{{ page.date | date:"%Y-%m-%d" }}",
-    "reviewRating": {
+    "reviewRating": 
     "@type": "Rating",
     "ratingValue": "{{ page.rating }}",
     "bestRating": "5"
