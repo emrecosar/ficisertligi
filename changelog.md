@@ -3,6 +3,7 @@
 ## 2020-12-11, v3.0.5
 - Update favicon set
 - Update logo
+- Update age popup english wording
 
 ## 2020-12-11, v3.0.4
 - Fix English pointer for some articles
