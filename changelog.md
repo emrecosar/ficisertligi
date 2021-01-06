@@ -1,7 +1,11 @@
 # Memoirs Jekyll Theme by WowThemes - Change Log
 
+## 2020-12-11, v3.0.5
+- Update favicon set
+
 ## 2020-12-11, v3.0.4
 - Fix English pointer for some articles
+- remove down arrow at "english below" link in posts
 
 ## 2020-12-11, v3.0.3
 - Pinterest save button updated to "just-icon" version
