@@ -551,6 +551,9 @@ img, img:hover {
                 vertical-align: text-bottom;
             }
         }
+        p {
+            font-size: 15px;
+        }
     }
 }
 
@@ -694,6 +697,9 @@ img, img:hover {
         display: flex;
         left: unset;
         z-index:0;
+        .fa-search {
+            display:none;
+        }
     }
     .share {
         font-size: 25px;

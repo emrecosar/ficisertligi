@@ -5,6 +5,7 @@
 - favicon set
 - logo
 - age popup english wording
+- "Share" font-size to 15px
 ### Added
 - age popup english yes/no
 - category green label margin 
