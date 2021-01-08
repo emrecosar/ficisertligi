@@ -14,7 +14,7 @@ Cheers to all whisky friends.
 
 --------------------------------------------------------------
 
-Viskiye karşı her zaman ilgim vardı ve özellikle malt viskiler ile yakından ilgilenmeye, bir kaç sene önceki Birleşik Krallık seyahatimiz sırasında başladım. Halen viskilerin muhteşem dünyasını keşfetmeye devam ederken, yaşadığım tecrübeleri sizinle paylaşmaktan mutluluk duyuyorum.
+Viskiye karşı her zaman ilgim vardı ve özellikle malt viskiler ile yakından ilgilenmeye, birkaç sene önceki Birleşik Krallık seyahatimiz sırasında başladım. Halen viskilerin muhteşem dünyasını keşfetmeye devam ederken, yaşadığım tecrübeleri sizinle paylaşmaktan mutluluk duyuyorum.
 
 Umarım keyif alırsınız.
 
