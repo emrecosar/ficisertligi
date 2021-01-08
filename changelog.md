@@ -1,5 +1,10 @@
 # Memoirs Jekyll Theme by WowThemes - Change Log
 
+## 2020-12-11, v3.0.6
+### Updated
+- search icon for mobile added to top with show/hide like desktop
+- About page updates
+
 ## 2020-12-11, v3.0.5
 ### Updated
 - favicon set

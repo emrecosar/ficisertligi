@@ -568,6 +568,7 @@ img, img:hover {
     visibility: hidden;
     opacity: 0;
     transition:opacity 0.5s linear;
+    margin-right: 25px;
     &.search--show {
         visibility: visible;
         opacity: 1;
@@ -687,18 +688,14 @@ img, img:hover {
     .site-content {
         padding-top:0;
     }
-    .bd-search {
-        visibility: visible;
-        opacity: 1;
-        transition: opacity 0.5s linear;
-    }
     .wrap-search {
         right: 25px;
         display: flex;
         left: unset;
         z-index:0;
         .fa-search {
-            display:none;
+            position: absolute;
+            right: 0;
         }
     }
     .share {
@@ -744,7 +741,8 @@ img, img:hover {
     }
     .wrap-search {
         .fa-search {
-            display:none;
+            position: absolute;
+            right: 0;
         }
         .form-control {
             height:35px;
@@ -807,7 +805,6 @@ img, img:hover {
 .popup-container p {
     clear: both;
     color: #555555;
-    /* text-align: justify; */
     font-size: 9px;
     font-family: 'Petrona', serif;
 }

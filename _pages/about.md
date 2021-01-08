@@ -6,12 +6,19 @@ comments: false
 image: assets/images/logo.png
 ---
 
-Brut de Fût\
-Viski Meraklısı\
-Simple Guide to Whiskey\
-📝Tasting Notes\
-📸Amateur Shots\
-🥃Fun Facts
+I always have an interest in whisky but single malt journey started with a road trip in UK couple of years ago. I'm currently discovering the amazing world of whiskies and very happy to share my experiences with you.
+
+Hope you enjoy my blog.
+
+Cheers to all whisky friends. 
+
+--------------------------------------------------------------
+
+Viskiye karşı her zaman ilgim vardı ve özellikle malt viskiler ile yakından ilgilenmeye, bir kaç sene önceki Birleşik Krallık seyahatimiz sırasında başladım. Halen viskilerin muhteşem dünyasını keşfetmeye devam ederken, yaşadığım tecrübeleri sizinle paylaşmaktan mutluluk duyuyorum.
+
+Umarım keyif alırsınız.
+
+Sağlığınıza. 
 
 <div class="share">
     <ul>
