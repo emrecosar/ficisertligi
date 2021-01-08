@@ -1,9 +1,13 @@
 # Memoirs Jekyll Theme by WowThemes - Change Log
 
 ## 2020-12-11, v3.0.5
-- Update favicon set
-- Update logo
-- Update age popup english wording
+### Updated
+- favicon set
+- logo
+- age popup english wording
+### Added
+- age popup english yes/no
+- category green label margin 
 
 ## 2020-12-11, v3.0.4
 - Fix English pointer for some articles
