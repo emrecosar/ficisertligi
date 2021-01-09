@@ -5,6 +5,8 @@ author: brutdefut
 categories: [ bourbons ]
 image: assets/images/woodford-2/woodford-2.jpg
 rating: 4
+preview-tr: Kentucky'nin en eski damıtımevinin "Distiller's Select" ekspresyonu. 
+preview-en: "Distiller's Select" expression from the oldest distillery in Kentucky.
 ---
 1812 kuruluş tarihi ile Kentucky'nin en eski damıtımevi olan ve Elijah Pepper tarafından kurulan markanın, ilk kez 1996'da piyasaya sürülen "Distiller's Select" ekspresyonu. 
 
@@ -18,3 +20,20 @@ Baştan sona kadar dengeli, lezzetli ve keyifli gidiyor. Hiç sıkılmadan, her 
 Ayrıca nev-i şahsına münhasır karakteri sebebiyle, Woodford Reserve'i nerede içersen iç tanırsın. Böylesine büyük adetlerde üretim yapan bir firma için, bu karakteri korumak, devamlılığı sağlamak ciddi tecrübe ve birikim ister. 
 
 Sağlığınıza.
+
+---------------------------------------------------------------------------
+
+<p id="english"></p>
+
+Woodford Reserve "Distiller's Select" is first released in 1996, from the oldest distillery in Kentucky. (Est. 1812, founder Elijah Pepper) 
+
+Nose; vanilla, lemon peels, oak, floral, sharp and surprisingly some nail polish at the end.
+Palate is very sweet (thanks to the corn), caramel, toasty oak, bitter honey and spice. Oily, velvety and almost chewy. 
+Finish; more sweetness, spice, smooth and medium to long. Some alcohol burn bites the tongue. After couple of minutes in the glass makes it more gentle. (I prefer little burn.)
+
+%72 corn, 18 rye, 10 barley, non chill-filtered, NAS, %43,2 abv, matured in American white oak casks.Triple distilled, a combination of "pot still" and "column still" and my review expression is stated as batch no: 850 ve bottle no: 2874 on the label.
+
+Delicious, well-rounded and balanced till the end. Woodford Reserve is a daily drinking bourbon; you'll never get bored and because of this, it's very dangerous in my opinion. So far, all of my friends, whisky related or not, loved it.
+Whereever you drink, you will recognize the special characteristic of Woodford Reserve. It's very hard to achieve that style for a distillery which produces massive amount of whiskies per year.
+
+Cheers to all. 
