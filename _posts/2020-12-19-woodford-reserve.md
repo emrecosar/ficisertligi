@@ -5,8 +5,8 @@ author: brutdefut
 categories: [ bourbons ]
 image: assets/images/woodford-2/woodford-2.jpg
 rating: 4
-preview-tr: Kentucky'nin en eski damıtımevinin "Distiller's Select" ekspresyonu. 
-preview-en: "Distiller's Select" expression from the oldest distillery in Kentucky.
+preview-tr: Kentucky'nin en eski damıtımevinin Distiller's Select ekspresyonu. 
+preview-en: Distiller's Select expression from the oldest distillery in Kentucky.
 ---
 1812 kuruluş tarihi ile Kentucky'nin en eski damıtımevi olan ve Elijah Pepper tarafından kurulan markanın, ilk kez 1996'da piyasaya sürülen "Distiller's Select" ekspresyonu. 
 
