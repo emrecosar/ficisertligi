@@ -31,7 +31,7 @@ Palate; iodine, peat, malt and sweet spice in a smooth and balanced way.
 Finish; more spice, malty dryness, peaty, long, warm and very satisfying.
 
 No age statement, non chill-filtered, 45,8% abv. Little bit different from classic Talisker style, because it's soft and light on body. 
-"Finest rare casks" were selected by Malt Master Craig Wilson according to the distillery to create this expression. 
-Nowadays, it's getting harder to find one and as a result, price increases. If you're seeking for an unusual experience, go for it.
+According to the distillery, Finest rare casks" were selected by Malt Master Craig Wilson, to create this expression. 
+Nowadays, it's getting harder to find one and as a result, the price increases. If you're seeking for an unusual experience, go for it.
 
 Cheers to all. 
