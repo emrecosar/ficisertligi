@@ -24,13 +24,13 @@ Sağlığınıza.
 
 <p id="english"></p>
 
-Uigeadail is a cask strength expression from Ardbeg core range and name comes from a lake near the distillery which means "a dark mysterious place" in Gaelic (This lake provides water to the distillery by the way).
+Uigeadail is a cask strength expression from Ardbeg core range and it was named after a lake near the distillery which means "a dark mysterious place" in Gaelic. (By the way, this lake provides water to the distillery)
 
 Nose; peat and red fruits are fighting for dominance. Behind them sea weed, smoked meat and sweetness. When smelling closely, you can feel the burn from alcohol because of the high abv.
 Palate; more peat, smoked meat with sea salt and caramelized sugar (It's a beautiful thing for sweet/sour lovers). Rich and creamy. 
-Finish; very long, spicy and warm. Red fruits on the nose doesn't last long. After a few minutes in the glass makes it more sweet, gentle and smooth.
+Finish; very long, spicy and warm. Red fruits on the nose don't last long. A few minutes in the glass makes it more sweet, gentle and smooth.
 
-Bottled with 52,2% abv, NAS, non chill-filtered, no colouring (amber colour comes from ex-sherry cask maturing which is uncommon for Ardbeg).
-Peat style suits with the classic Ardbeg style and its rich in the aromas like a good Islay. Beautifully balanced cask strength dram for a purist whisky aficionado. 
+Bottled with 52,2% abv, NAS, non chill-filtered, no colouring (amber colour, which is uncommon for Ardbeg, comes from ex-sherry cask maturing).
+Peat style suits with the classic Ardbeg style and it's rich in the aromas like a good Islay. Beautifully balanced cask strength dram for a purist whisky aficionado. 
 
 Cheers to all. 
