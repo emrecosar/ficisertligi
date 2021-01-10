@@ -1,5 +1,11 @@
 # Memoirs Jekyll Theme by WowThemes - Change Log
 
+## 2020-12-11, v4.0.0
+### Updated
+- release of ficisertligi.com
+- Added CNAME file
+- update site url and baseUrl in _config.ylm
+
 ## 2020-12-11, v3.0.6
 ### Updated
 - search icon for mobile added to top with show/hide like desktop

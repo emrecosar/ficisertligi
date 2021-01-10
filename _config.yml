@@ -1,6 +1,5 @@
 # Site
-version: 3.0.6
-name: "Fıçı Sertliği"
+version: 4.0.0
 title: "Fıçı Sertliği | Brut De Fût"
 description: "Simple Guide to Whisky"
 logo: 'assets/images/logo.png'
@@ -72,5 +71,5 @@ sass:
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 
 
-url: https://brutdefut.github.io
-baseurl: /ficisertligi
+url: https://ficisertligi.com
+baseurl:
