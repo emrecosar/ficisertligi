@@ -25,15 +25,15 @@ Sağlığınıza.
 
 <p id="english"></p>
 
-Auchentoshan (Est. 1824) is the only Scotch Distillery which uses triple distillation and their name means "Corner of the Field" in Scottish Gaelic.
-American Oak is first released in 2014, before that its name was "Au Classic".
+Auchentoshan (Est. 1824) is the only Scotch Distillery which uses triple distillation and the name means "Corner of the Field" in Scottish Gaelic.
+American Oak was first released in 2014, before that its name was "Au Classic".
 
 Nose starts with grass, green apple, vanilla, orange peels and ends with nutmeg and light caramel. 
-Palate; more nutmeg, sweetness and oak. Young age and triple distilation gives whisky a fresh, light and spicy style. 
+Palate; more nutmeg, sweetness and oak. Young age and triple distillation gives whisky a fresh, light and spicy style. 
 Finish; ginger, cinnamon, more spice, short and hot.
 
 NAS (No Age Statement), 40% abv, coloured with caramel, matured in first-fill North American bourbon casks. These casks are selected from the higher and lower shelfs of the distillery warehouse and gathered together before bottling. 
 
-If you are a bourbon guy who wants to try scotch or just want an appetiser before dinner, American Oak is a solution. 
+If you are a bourbon guy who wants to try scotch or just an appetiser before dinner, American Oak is a solution. 
 
 Cheers.
