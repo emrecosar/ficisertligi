@@ -5,7 +5,7 @@ author: brutdefut
 categories: [ highland ]
 image: "assets/images/glenfarclas15-2/glenfarclas15-2.jpg"
 rating: 4.5
-preview-tr: "The Grants" Ailesi tarafından en çok tüketilen ekspresyonlardan biri olan Glenfarclas 15. 
+preview-tr: Grants Ailesi tarafından en çok tüketilen ekspresyonlardan biri olan Glenfarclas 15. 
 preview-en: One of the favourites of "The Grants Family" who runs Glenfarclas Distillery in six generations.
 ---
 
