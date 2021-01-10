@@ -1,5 +1,6 @@
 # Site
-version: 4.0.0
+version: 4.0.1
+name: "Fıçı Sertliği"
 title: "Fıçı Sertliği | Brut De Fût"
 description: "Simple Guide to Whisky"
 logo: 'assets/images/logo.png'

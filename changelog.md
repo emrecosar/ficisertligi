@@ -1,17 +1,21 @@
-# Memoirs Jekyll Theme by WowThemes - Change Log
+# ficisertligi.com - Change Log
 
-## 2020-12-11, v4.0.0
+## 2021-01-10, v4.0.0
+### Add
+- Share links to contact page
+
+## 2021-01-10, v4.0.0
 ### Updated
 - release of ficisertligi.com
 - Added CNAME file
 - update site url and baseUrl in _config.ylm
 
-## 2020-12-11, v3.0.6
+## 2021-01-08, v3.0.6
 ### Updated
 - search icon for mobile added to top with show/hide like desktop
 - About page updates
 
-## 2020-12-11, v3.0.5
+## 2021-01-05, v3.0.5
 ### Updated
 - favicon set
 - logo
@@ -21,7 +25,7 @@
 - age popup english yes/no
 - category green label margin 
 
-## 2020-12-11, v3.0.4
+## 2021-01-01, v3.0.4
 - Fix English pointer for some articles
 - remove down arrow at "english below" link in posts
 
