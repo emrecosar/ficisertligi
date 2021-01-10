@@ -1,8 +1,9 @@
 # ficisertligi.com - Change Log
 
-## 2021-01-10, v4.0.0
+## 2021-01-10, v4.0.1
 ### Add
 - Share links to contact page
+- Update contact page texts
 
 ## 2021-01-10, v4.0.0
 ### Updated
