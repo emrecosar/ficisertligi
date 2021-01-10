@@ -25,15 +25,15 @@ Sağlığınıza.
 
 <p id="english"></p>
 
-Woodford Reserve "Distiller's Select" is first released in 1996, from the oldest distillery in Kentucky. (Est. 1812, founder Elijah Pepper) 
+Woodford Reserve "Distiller's Select" was first released in 1996 by the oldest distillery in Kentucky. (Est. 1812, founder Elijah Pepper) 
 
 Nose; vanilla, lemon peels, oak, floral, sharp and surprisingly some nail polish at the end.
 Palate is very sweet (thanks to the corn), caramel, toasty oak, bitter honey and spice. Oily, velvety and almost chewy. 
-Finish; more sweetness, spice, smooth and medium to long. Some alcohol burn bites the tongue. After couple of minutes in the glass makes it more gentle. (I prefer little burn.)
+Finish; more sweetness, spice, smooth and medium to long. Some alcohol burn bites the tongue. A couple of minutes in the glass makes it more gentle. (I prefer little burn.)
 
-%72 corn, 18 rye, 10 barley, non chill-filtered, NAS, %43,2 abv, matured in American white oak casks. Triple distilled, a combination of pot still-column still and my expression tasted for the review is stated as Batch No: 850 ve Bottle No: 2874 on the label.
+%72 corn, 18 rye, 10 barley, non chill-filtered, NAS, %43,2 abv, matured in American white oak casks. Triple distilled, a combination of pot still-column still and my expression tasted for the review is stated as Batch No: 850 and Bottle No: 2874 on the label.
 
-Delicious, well-rounded and balanced till the end. Woodford Reserve is a daily drinking bourbon; you'll never get bored and because of this, it's very dangerous in my opinion. So far, all of my friends, whisky related or not, loved it.
-Wherever you drink, you will recognize the special characteristic of Woodford Reserve. It's very hard to achieve that style for a distillery, which produces massive amount of whiskies per year.
+Delicious, well-rounded and balanced till the end. Woodford Reserve is a daily drinking bourbon; you'll never get bored and because of this, it's very dangerous in my opinion. So far, all of my friends, interestes in whisky or not, loved it.
+Wherever you drink, you will recognize the special characteristic of Woodford Reserve. It's very hard to achieve that style for a distillery which produces massive amount of whiskies per year.
 
 Cheers to all. 
