@@ -1,5 +1,9 @@
 # ficisertligi.com - Change Log
 
+## 2021-01-10, v4.0.2
+### Updated
+- Update google anayltics for ficisertligi.com
+
 ## 2021-01-10, v4.0.1
 ### Add
 - Share links to contact page
