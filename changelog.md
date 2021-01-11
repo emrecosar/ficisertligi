@@ -1,5 +1,13 @@
 # ficisertligi.com - Change Log
 
+## 2021-01-10, v4.2.0
+### Added
+- Scroll to top button
+### Changed
+- Configure some metatags
+### Removed
+- Footer `about` and `contact` links are removed
+
 ## 2021-01-10, v4.1.0
 ### Added
 - Mouse hover color for side menu items

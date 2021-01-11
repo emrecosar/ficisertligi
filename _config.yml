@@ -3,6 +3,7 @@ version: 4.1.0
 name: "Fıçı Sertliği"
 title: "Fıçı Sertliği | Brut De Fût"
 description: "Simple Guide to Whisky"
+keywords: "Fıçı Sertliği, fici sertligi, brut de fut, whisky, viski"
 logo: 'assets/images/logo.png'
 favicon: 'favicon.ico'
 google_analytics: 'G-M55JTVTNL6'
@@ -10,6 +11,7 @@ include: ["_pages"]
 permalink: /:title/
 email: ficisertligi@gmail.com
 formspree_io_endpoint: https://formspree.io/f/mwkwwblp
+twitter_creator: "@ficisertligi"
 
 # Authors
 authors:
