@@ -6,19 +6,19 @@ comments: false
 image: assets/images/logo.png
 ---
 
-I always have an interest in whisky but single malt journey started with a road trip in UK couple of years ago. I'm currently discovering the amazing world of whiskies and very happy to share my experiences with you.
-
-Hope you enjoy my blog.
-
-Cheers to all whisky friends. 
-
---------------------------------------------------------------
-
 Viskiye karşı her zaman ilgim vardı ve özellikle malt viskiler ile yakından ilgilenmeye, birkaç sene önceki Birleşik Krallık seyahatimiz sırasında başladım. Halen viskilerin muhteşem dünyasını keşfetmeye devam ederken, yaşadığım tecrübeleri sizinle paylaşmaktan mutluluk duyuyorum.
 
 Umarım keyif alırsınız.
 
 Sağlığınıza. 
+
+--------------------------------------------------------------
+
+I always have an interest in whisky but especially malt whisky journey started with a road trip in the UK a couple of years ago. I'm currently discovering the amazing world of whiskies and very happy to share my experiences with you.
+
+Hope you enjoy my blog.
+
+Cheers to all whisky friends. 
 
 <div class="share">
     <ul>
