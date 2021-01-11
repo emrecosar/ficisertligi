@@ -14,7 +14,7 @@ Sağlığınıza.
 
 --------------------------------------------------------------
 
-I always have an interest in whisky but single malt journey started with a road trip in UK couple of years ago. I'm currently discovering the amazing world of whiskies and very happy to share my experiences with you.
+I always have an interest in whisky but single malt journey started with a road trip in the UK a couple of years ago. I'm currently discovering the amazing world of whiskies and very happy to share my experiences with you.
 
 Hope you enjoy my blog.
 
