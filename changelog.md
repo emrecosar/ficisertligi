@@ -1,9 +1,5 @@
 # ficisertligi.com - Change Log
 
-## 2021-01-10, v4.1.0
-### Added
-- Scroll to top button
-
 ## 2021-01-10, v4.0.2
 ### Updated
 - Update google anayltics for ficisertligi.com
