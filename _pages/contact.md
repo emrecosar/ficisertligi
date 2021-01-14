@@ -6,8 +6,8 @@ comments: false
 ---
 
 <form action="{{site.formspree_io_endpoint}}" method="POST">
-<p class="mb-4">Tüm sorularınız için email gönderebilirsiniz.</p>    
-<p class="mb-4">Email me for any questions about whisky or anything else.</p>
+<p class="mb-4">Tüm sorularınız için e-mail gönderebilirsiniz.</p>    
+<p class="mb-4">E-mail me for any questions about whisky or anything else.</p>
 <p class="mb-4">ficisertligi@gmail.com</p>
 <p class="mb-4">Ya da sorularınızı mesaj kutucuğu ile yollayın.</p>  
 <p class="mb-4">Or send your message, I will reply as soon as possible!</p>
