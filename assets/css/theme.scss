@@ -221,6 +221,9 @@ img, img:hover {
                 font-weight: 400;
                 font-size: 18px;
                 position: relative;
+                &:hover {
+                    color: #111;
+                }
             }
             &.sub {
                 margin-left: 15px;
