@@ -6,7 +6,7 @@ categories: [ speyside, highland ]
 image: "assets/images/glenfarclas15-2/glenfarclas15-2.jpg"
 rating: 4.5
 preview-tr: Grants Ailesi tarafından en çok tüketilen ekspresyonlardan biri olan Glenfarclas 15. 
-preview-en: One of the favourites of "The Grants Family" who runs Glenfarclas Distillery in six generations.
+preview-en: One of the favourites of "The Grants Family" who has run Glenfarclas Distillery for six generations.
 ---
 
 Tam altı jenerasyondur "The Grants" tarafından yönetilen, 19. ve 20. yy.'da yaşanan tüm resesyonlara rağmen ayakta kalmayı başaran ve viskilerini hiçbir zaman blended furyasına kurban etmeyen köklü Glenfarclas Damıtımevi'nin, aile tarafından da en çok tüketilen ekspresyonlardan biri olan Glenfarclas 15. 
