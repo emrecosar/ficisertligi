@@ -9,7 +9,7 @@ preview-tr: Grants Ailesi tarafından en çok tüketilen ekspresyonlardan biri o
 preview-en: One of the favourites of "The Grants Family" who runs Glenfarclas Distillery in six generations.
 ---
 
-Tam altı jenerasyondur "The Grants" tarafından yönetilen, 19. ve 20. yaşanan tüm resesyonlara rağmen ayakta kalmayı başaran ve viskilerini hiçbir zaman blended furyasına kurban etmeyen köklü Glenfarclas Damıtımevi'nin, aile tarafından da en çok tüketilen ekspresyonlardan biri olan Glenfarclas 15. 
+Tam altı jenerasyondur "The Grants" tarafından yönetilen, 19. ve 20. yy.'da yaşanan tüm resesyonlara rağmen ayakta kalmayı başaran ve viskilerini hiçbir zaman blended furyasına kurban etmeyen köklü Glenfarclas Damıtımevi'nin, aile tarafından da en çok tüketilen ekspresyonlardan biri olan Glenfarclas 15. 
 
 Burunda yoğun kırmızı meyve, çikolata ve meşe kokuları baskın. Viskilerde olgunlaşma süresi arttıkça, mayalanmış hamuru hatırlatan bir aroma dikkatimi çekiyor. (Yıllar içerisinde fıçının viskiye olan etkisinin artmasıyla paralel şekilde malt yoğunluğu da artıyor.) Hafif is burundaki sürpriz oluyor. 
 Damakta yağlı ve dolgun; başlangıçta şeri etkisi ile tatlılık ve üzümün diğer aromaları biraz bastırdığını söylemek mümkün. Kadehte bekledikçe güzelce açılıyor ve aromalar dengeleniyor. Diğer yandan "christmas cake" diye tabir edilen ve bana annemin yaptığı meyveli, tarçınlı keki hatırlatan tatlar yanında, hiç kaybolmayan, aynı zamanda diğerlerini baskılamayan güzel bir meşe hissiyatı mevcut.
