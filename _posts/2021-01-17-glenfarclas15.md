@@ -31,7 +31,7 @@ Nose; red fruits, chocolate, sourdough bread and beautiul oak with a touch of sm
 Palate; sherry dominates the beginning with raisins and sweetness. A couple of minutes in the glass opens up the whisky and reveals the other aromas. Christmas cake, gentle oak, spice, oily and well-rounded till the end. 
 Finish; more sweetness, popped up spice, long and warm. 
 
-Glenfarclas 15 has no colouring, bottled at 46% abv, matured in sherry casks and is a wonderful dram to be exact. Whisky related or not, I recommend all of my friends and people to try it. One of the best sherried classic scotch whiskies out there. 
+Glenfarclas 15 has no colouring, bottled at 46% abv, matured in sherry casks and is a wonderful dram to be exact. Whether keen on whisky or not, I recommend all of my friends and people to try it. One of the best sherried classic scotch whiskies out there. 
 
 PS: Glenfarclas means "Glen of the Green Grassland" in Scottish Gaelic. 
 
