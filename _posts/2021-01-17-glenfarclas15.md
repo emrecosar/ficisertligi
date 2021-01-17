@@ -25,10 +25,10 @@ Sağlığınıza.
 
 <p id="english"></p>
 
-One of the favourites of "The Grants Family" who runs Glenfarclas Distillery in six generations. Family never gave a drop of their spirits to the blends and standed up against all economic depressions in 19th and 20th Centuries. 
+One of the favourites of "The Grants Family" who has run Glenfarclas Distillery for six generations. Family never gave a drop of their spirits to the blends and stood up to all economic depressions in 19th and 20th centuries. 
 
 Nose; red fruits, chocolate, sourdough bread and beautiul oak with a touch of smoke. 
-Palate; sherry dominates the beginning with raisins and sweetness. Couple of minutes in the glass opens up the whisky and reveal the other aromas. Christmas cake, gentle oak, spice, oily and well-rounded till the end. 
+Palate; sherry dominates the beginning with raisins and sweetness. A couple of minutes in the glass opens up the whisky and reveals the other aromas. Christmas cake, gentle oak, spice, oily and well-rounded till the end. 
 Finish; more sweetness, popped up spice, long and warm. 
 
 Glenfarclas 15 has no colouring, bottled at 46% abv, matured in sherry casks and is a wonderful dram to be exact. Whisky related or not, I recommend all of my friends and people to try it. One of the best sherried classic scotch whiskies out there. 
