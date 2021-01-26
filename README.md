@@ -2,6 +2,8 @@
 
 [Live Demo](https://brutdefut.github.io/ficisertligi/)
 
+![CodeQL](https://github.com/brutdefut/ficisertligi/workflows/CodeQL/badge.svg)
+
 ## Categories
 - blended
 - bourbons
