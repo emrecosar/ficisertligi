@@ -15,7 +15,7 @@ post_class: post-template
         <div>
             {% if author.avatar %}
             <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
-            {% endif %}
+            {% endif %} 
         </div>            
         <div>
         <a target="_blank" class="text-dark" href="{{ author.instagram }}">{{ author.display_name }}</a> on 
@@ -36,7 +36,9 @@ post_class: post-template
 <!-- Featured Image -->
 {% include featured-image.html %}
 
-<p class="scroll-to-english"><a href="#english">Scroll to English</a></p>
+<p class="scroll-to-english">
+    <a href="#english">Scroll to English</a>
+</p>
 
 <!-- Content -->
 {% include article.html %}

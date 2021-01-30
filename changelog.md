@@ -1,5 +1,13 @@
 # ficisertligi.com - Change Log
 
+## 2021-01-10, v4.3.0
+### Added
+- h4 title added for all category page
+### Changed
+- Category tag ui under related posts on post page
+### Fixed
+- Footer text aligned to center
+
 ## 2021-01-10, v4.2.0
 ### Added
 - Scroll to top button

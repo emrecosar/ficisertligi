@@ -6,7 +6,7 @@ permalink: "/categories"
 
 {% for category in site.categories %}
     <h4 class="mt-5 mb-neg-30" id="{{ category[0] | replace: " ","-" }}">
-        <span class="text-capitalize text-small badge badge-primary">{{ category[0] }}</span>
+        <span class="text-capitalize text-small">{{ category[0] }}</span>
     </h4>
     <div class="blog-grid-container">
         {% assign pages_list = category[1] %}
