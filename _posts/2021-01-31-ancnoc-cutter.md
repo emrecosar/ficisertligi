@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AnCnoc Cutter"
+title:  "ANCNOC CUTTER"
 author: brutdefut
 categories: [ highland, islay-peated-smoky ]
 image: "assets/images/cutter-2/cutter-2.jpg"
