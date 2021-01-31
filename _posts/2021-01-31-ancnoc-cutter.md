@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "TOGOUCHI PREMIUM BLENDED WHISKY"
+title:  "AnCnoc Cutter"
 author: brutdefut
-categories: [ japan-asia, blended ]
+categories: [ highland, islay-peated-smoky ]
 image: "assets/images/cutter-2/cutter-2.jpg"
 rating: 4
 preview-tr: Knockdhu Damıtımevi'nin 2014 çıkışlı, isli limited edition ekspresyonu.
