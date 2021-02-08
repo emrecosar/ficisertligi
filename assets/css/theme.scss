@@ -536,7 +536,7 @@ img, img:hover {
         }
     }
 }
-.related-posts {
+.related-posts{
     h2 {
     }
     margin-top:60px;
@@ -545,6 +545,19 @@ img, img:hover {
         padding:5px 7px;
         display:inline-block;
         margin: 0 3px;
+        border-color: #212529;
+        border-width: 1px;
+        border-style: double;
+        border-radius: 25px;
+    }
+}
+
+.logo-categories{
+    .badge {
+        font-size: 15px;
+        padding:5px 7px;
+        display:inline-block;
+        margin: 3px 3px;
         border-color: #212529;
         border-width: 1px;
         border-style: double;
