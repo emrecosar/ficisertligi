@@ -1,5 +1,9 @@
 # ficisertligi.com - Change Log
 
+## 2021-02-08, v4.4.0
+### Added
+- categories to the most right of the site logo per post
+
 ## 2021-01-10, v4.3.0
 ### Added
 - h4 title added for all category page
