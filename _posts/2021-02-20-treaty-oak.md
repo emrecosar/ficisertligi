@@ -26,6 +26,8 @@ Sağlığınıza.
 
 -----------------------------------------------
 
+<p id="english"></p>
+
 Ghost Hill Bourbon is a very exciting bottling from a young distillery called Treaty Oak. (Est. 2006, founder Daniel Barns)
 
 Nose; intense caramel, vanilla and sweetness (like molasses) at first. After that, fresh-cut grass, herbal, oak shavings. 
