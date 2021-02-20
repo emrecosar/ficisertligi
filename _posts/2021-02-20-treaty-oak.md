@@ -33,7 +33,7 @@ Ghost Hill Bourbon is a very exciting bottling from a young distillery called Tr
 Nose; intense caramel, vanilla and sweetness (like molasses) at first. After that, fresh-cut grass, herbal, oak shavings. 
 Palate; more caramel and sweetness, charcoal and plenty of spice. 
 Finish is surprisingly long for a young whiskey; spicy, smooth and gentle. 
-After waiting a few minutes in the glass, it tastes much more sweeter. 
+After waiting a few minutes in the glass, it tastes much sweeter. 
 
 Whiskey is bottled with %47.5 abv (95 proof) and matured in new #3 char oak casks. The distillery is using %57 Texas Corn, %32 Texas Wheat, %11 American Barley and filtered local limestone water to produce their "home-grown spirit". 
 Bourbon has a very good character and has almost no bad alcohol burn for only 18 to 24-month-old whisky. Thanks to Arizona Climate, warmth quickly affects the angel's share and oak influence on the whiskey. 
