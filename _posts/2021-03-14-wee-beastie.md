@@ -43,6 +43,6 @@ Due to its young age statement, Wee Beastie is the freshest whisky in The Ardbeg
 
 Wee Beastie is a perfect addition to the core range by Ardbeg and I hope that this courageous step will set an example to the other distilleries to produce richer and younger whiskies in the future. 
 
-PS: For those who wonder about Wee Beastie meaning; it refers to small and annoying Scottish mosquitos living in the bogs. 
+PS: For those who wonder about Wee Beastie meaning; it refers to small and annoying Scottish mosquitos living in the bogs. :)
 
 Cheers to all. 
