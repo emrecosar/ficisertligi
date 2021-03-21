@@ -3,7 +3,7 @@ layout: post
 title:  "GLENMORANGIE 18"
 author: brutdefut
 categories: [ highland, speyside ]
-image: "assets/images/glenmorangie-18/glenmorangie-18.jpg"
+image: "assets/images/glenmorangie18/glenmorangie18.jpg"
 rating: 4.5
 preview-tr: 1843 tarihli Glenmorangie Damıtımevi'nin genel satış portföyündeki en özel ve güzel ekspresyonlardan biri.
 preview-en: One of the most special and delicious bottlings from The Glenmorangie Distillery (Est. 1843) core range. 
