@@ -22,7 +22,7 @@ Kadehte hava aldıkça meyve aromaları öne çıkıyor.
 Viskinin genel yapısı kompleks ve çok dengeli. Eğer 18'lik Speyside rakipleri ile kıyaslamam gerekirse hiç düşünmeden ilk sıraya koyarım. Her zaman bir şişe açık, bir şişe yedekte bulundurulması gerekenlerden. 
 
 Uzun Dip Not: 
-1) Glenmorangie Damıtımevi İskoçya'daki en uzun imbiklere sahip. Bakır imbiklerden geçerken temas süresinin uzadığını ve bu sayede yumuşak, meyvemsi ve elegan karaktere sahip viskiler ürettikleri iddiasındalar. 
+1) Glenmorangie Damıtımevi İskoçya'daki en uzun imbiklere sahip. Bakır imbiklerden geçerken temas süresinin uzadığı ve bu sayede yumuşak, meyvemsi ve elegan karaktere sahip viskiler ürettikleri iddiasındalar. 
 2) Aynı zamanda Damıtımevi olgunlaştırma sürecinde kullandığı meşeleri Amerika'nın Missouri Eyaleti'nde yer alan Ozark Dağları'ndan, ağaçlar henüz kesilmeden seçip, burbon üreticilerine veriyor. Sonrasında burbon ile işi biten meşe fıçıları alıp kendi bünyesinde kullanıyor. 
 3) Şişelerin üzerinde gördüğümüz "Sixteen Men of Tain" ise, damıtımevinde çalışan ve viski yapımına katkısı olan ekibe verilen ad.
 
