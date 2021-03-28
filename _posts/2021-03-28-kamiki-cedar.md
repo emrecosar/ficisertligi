@@ -2,7 +2,7 @@
 layout: post
 title:  "KAMIKI BLENDED MALT"
 author: brutdefut
-categories: [ japan-asia ]
+categories: [ japan-asia, blended ]
 image: "assets/images/kamiki-cedar2/kamiki-cedar2.jpg"
 rating: 3
 preview-tr: Miwa Dağı'nın eteklerinden gelen ve Dünya'da sedir ağacı fıçılarında bitiş verilen ilk viski.
