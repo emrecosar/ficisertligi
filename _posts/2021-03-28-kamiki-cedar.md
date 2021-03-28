@@ -17,7 +17,7 @@ Damak; elma, hafif nane ve karabiber. Damak arkasında buruna göre daha tatlı,
 Bitiş; baharatlı, uzun, köşeli ve çam sakızı benzeri ağaç kokuları devam ediyor. 
 Kadehte bekledikçe çayır çimen aromaları baskınlaşıyor. 
 
-Soğuk filtrasyon yapılmıyor, %48 alkol oranı ile yaş belirtilmeden şişeleniyor. Bol ödüllü harmanda, Japon, Dünya viskileri ve firmanın tabiri ile ülkedeki en saf kaynak suları var. Fakat içeriğe dair spesifik bilgi verilmiyor. 
+Soğuk filtrasyon yapılmıyor, %48 alkol oranı ile yaş belirtilmeden şişeleniyor. Bol ödüllü harmanda, Japon-Dünya viskileri ve firmanın tabiri ile ülkedeki en saf kaynak suları var. Fakat içeriğe dair spesifik bilgi verilmiyor. 
 Genel itibariyle çok farklı tarza sahip, şaşırtıcı, doyurucu ve dolgun yapılı bir viski. Ağaç karakteri baskın olduğundan, diğer aromalara ulaşmak için biraz zaman ve çaba gerekiyor. 
 
 Şişe dizaynı Türk tasarımcı Erhan Özden tarafından yapılan ürünün bendeki şişesi "batch no:005" ve hem Japon viskisi tatmak isteyen hem de farklı deneyim yaşamak isteyen viskiseverler açısından güzel bir seçenek. 
