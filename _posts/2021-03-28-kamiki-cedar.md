@@ -3,7 +3,7 @@ layout: post
 title:  "KAMIKI BLENDED MALT"
 author: brutdefut
 categories: [ japan-asia ]
-image: "assets/images/kamiki-cedar4/kamiki-cedar4.jpg"
+image: "assets/images/kamiki-cedar5/kamiki-cedar5.jpg"
 rating: 3
 preview-tr: Miwa Dağı'nın eteklerinden gelen ve Dünya'da sedir ağacı fıçılarında bitiş verilen ilk viski.
 preview-en: World's first cedar cask finish whisky from The Mount Miwa in Nara, Japan. 
