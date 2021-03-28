@@ -20,9 +20,9 @@ Kadehte bekledikçe çayır çimen aromaları baskınlaşıyor.
 Soğuk filtrasyon yapılmıyor, %48 alkol oranı ile yaş belirtilmeden şişeleniyor. Bol ödüllü harmanda, Japon, Dünya viskileri ve firmanın tabiri ile ülkedeki en saf kaynak suları var. Fakat içeriğe dair spesifik bilgi verilmiyor. 
 Genel itibariyle çok farklı tarza sahip, şaşırtıcı, doyurucu ve dolgun yapılı bir viski. Ağaç karakteri baskın olduğundan, diğer aromalara ulaşmak için biraz zaman ve çaba gerekiyor. 
 
-Şişe dizaynı Türk tasarımcı Erhan Özden tarafından yapılan viskinin bendeki şişesi "batch no:005" ve hem Japon viskisi tatmak isteyen hem de farklı deneyim yaşamak isteyen viskiseverler açısından güzel bir seçenek. 
+Şişe dizaynı Türk tasarımcı Erhan Özden tarafından yapılan ürünün bendeki şişesi "batch no:005" ve hem Japon viskisi tatmak isteyen hem de farklı deneyim yaşamak isteyen viskiseverler açısından güzel bir seçenek. 
 
-Dip Not-2: Sedir (Yoshino-sugi), yüzyıllardır tapınak yapımında kullanılan, zihin ve vücudu dinginleştirdiğine inanılan bir ağaç türü. Markanın kendisi ile bağdaştırdığı, Japonya'daki en eski "Shinto" (Japon milli dini) tapınaklarından biri olan "Omiwa Shrine"da da aynı ağaçtan çokça mevcut. Nitekim Kamiki'nin Türkçe çevirisi "Tanrı'nın Nefesi" anlamına geliyor. 
+Dip Not-1: Sedir (Yoshino-sugi), yüzyıllardır tapınak yapımında kullanılan, zihin ve vücudu dinginleştirdiğine inanılan bir ağaç türü. Markanın kendisi ile bağdaştırdığı, Japonya'daki en eski "Shinto" (Japon milli dini) tapınaklarından biri olan "Omiwa Shrine"da da aynı ağaçtan çokça mevcut. Nitekim Kamiki'nin Türkçe çevirisi "Tanrı'nın Nefesi" anlamına geliyor. 
 
 Dip Not-2: Fotoğraftaki saati merak edenlerin, Japon mükemmeliyetçiliğin başarılı bir uygulaması olan Grand Seiko markasını araştırmalarını tavsiye ederim. 
 
