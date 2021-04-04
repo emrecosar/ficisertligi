@@ -22,7 +22,7 @@ Damıtımevi, üretim sürecinde eski usül yöntemlere sadık kalmaya devam edi
 
 Halen Dewar's çatısı altında bulunan firma viskilerini güçlü ve sağlam olarak niteliyor. Keskin sıfatını da ekleyerek bu düşüncelerine katılıyorum. Şişe üzerinde Speyside yazısını görüp, meyve bahçesindeymişçesine viski içeceğini sananlar çok şaşıracaklar.
 
-PS: Harika vintage şişesinin üzerindeki etikette görülen binanın ve özellikle çatıda yer alan "E-shape Pagoda" stilindeki muhteşem bacaların tasarımı Elgin Bölgesi'nin ünlü mimarı Charles Doig'a ait. 
+Dip Not: Harika vintage şişesinin üzerindeki etikette görülen binanın ve özellikle çatıda yer alan "E-shape Pagoda" stilindeki muhteşem bacaların tasarımı Elgin Bölgesi'nin ünlü mimarı Charles Doig'a ait. 
 
 Sağlığınıza.   
  
