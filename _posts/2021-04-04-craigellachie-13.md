@@ -13,7 +13,7 @@ preview-en: First released in 2014, Craigellachie 13 is one of the best examples
 1891 yılında, dönemlerinin ünlü harmancı ve tüccarlarından sayılan Alexander Edward ve Sir Peter Mackie tarafından kurulan Craigellachie Damıtımevi'nin 2014 yılında piyasaya sürdüğü, geleneksel Speyside viski üretiminin en başarılı örneklerinden biri olan 13 yıllık ekspresyonu. 
 
 Burun; karanfil, vanilya, karamelize şeker, çimen ve bitkisel notalar. 
-Damak; Elma, kuru et (İsli Boşnak tipi), biber, bal, zencefil acılığı. Dili hafifçe titreten, dolu dolu ve kremamsı yapıya sahip. 
+Damak; elma, kuru et (İsli Boşnak tipi), biber, bal, zencefil acılığı. Dili hafifçe titreten, dolu dolu ve kremamsı yapıya sahip. 
 Bitiş; malt kuruluğu, uzun, sıcak, keskin ve bolca biberli. 
 Kadehte bekledikçe yeşil elma aroması daha çok hissedilir oluyor. 
 
