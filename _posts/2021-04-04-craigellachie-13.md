@@ -38,7 +38,7 @@ Finish; malty dryness, long, warm, sharp and more peppery.
 After a few minutes in the tumbler, green apple comes forward and says hi. 
 
 Matured in both ex-bourbon and ex-sherry oak casks, bottled with 46% abv, non-chill-filtered, no colouring and my bottle's number is 04-6137. 
-The distillery still sticks by the traditional techniques to produce its spirits and "worm tubs" are one of them. To cool their spirits, Craigellachie has beeb using old-fashioned long copper tubes since 1891. As a result of this process, the whisky has a distinctive and meaty character with extra flavour, the distillery says. 
+The distillery still sticks by the traditional techniques to produce its spirits and "worm tubs" are one of them. To cool their spirits, Craigellachie has been using old-fashioned long copper tubes since 1891. As a result of this process, the whisky has a distinctive and meaty character with extra flavour, the distillery says. 
 
 If you expect a fruity and sweet Speyside whisky, you will be extremely surprised by the robust, muscular and sharp style of Craigellachie 13. 
 
