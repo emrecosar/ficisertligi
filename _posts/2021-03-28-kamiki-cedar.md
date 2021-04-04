@@ -15,7 +15,7 @@ Japon sake üreticilerinin merkezi olarak bilinen Nara kentinde bulunan Miwa Da�
 Burun; narenciye, taze çimen, yeni kesilmiş ağaç kokuları. Çiçeksi ve yumuşak. 
 Damak; elma, hafif nane ve karabiber. Damak arkasında buruna göre daha tatlı, yakıcı ve sert. Sedir keskinliği öne çıkıyor. 
 Bitiş; baharatlı, uzun, köşeli ve çam sakızı benzeri ağaç kokuları devam ediyor. 
-Kadehte bekledikçe çayır çimen aromaları baskınlaşıyor. 
+Kadehte bekledikçe çayır çimen notaları baskınlaşıyor. 
 
 Soğuk filtrasyon yapılmıyor, %48 alkol oranı ile yaş belirtilmeden şişeleniyor. Bol ödüllü harmanda, Japon-Dünya viskileri ve firmanın tabiri ile ülkedeki en saf kaynak suları var. Fakat içeriğe dair spesifik bilgi verilmiyor. 
 Genel itibariyle çok farklı tarza sahip, şaşırtıcı, doyurucu ve dolgun yapılı bir viski. Ağaç karakteri baskın olduğundan, diğer aromalara ulaşmak için biraz zaman ve çaba gerekiyor. 
