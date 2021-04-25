@@ -1,6 +1,6 @@
 ---
 layout: post
-  title:  "JAMESON BLACK BARREL"
+title:  "JAMESON BLACK BARREL"
 author: brutdefut
 categories: [ islay-peated-smoky, lowland-irish ]
 image: "assets/images/black-barrel/black-barrel.png"
