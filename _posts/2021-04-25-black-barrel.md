@@ -34,6 +34,6 @@ Finish; medium to long, spicy, warm and delicious with double-charred oak.
 
 Blend of an 8 to 16 year old whiskies; -Small batch grain and -Irish Pot Still. Triple Distillation with three different types; -A wash still, -A feint still and -A spirit still. NAS, caramel for colouring, 40% abv. For maturing, the distillery uses American oak, sherry casks and double-charred first fill bourbon oak barrels. Before touching the spirit, the bourbon oak barrels are burnt with flame twice from the inside. This process adds richness and complexity to the whiskey and it's called "American Way". It's not an Islay peat of course but more like oak wood used for barbeque or charcoal. 
  
-Black Barrel is an award winning, well executed Irish and one of my favourite ones. If you are looking for an easy to drink and reasonably priced whiskey, try it. 
+Black Barrel is an award winning, well executed Irish and one of my favourite ones. If you are looking for an easy to drink and a reasonably priced whiskey, try it. 
 
 Cheers to all.  
