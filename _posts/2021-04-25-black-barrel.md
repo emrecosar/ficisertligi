@@ -5,7 +5,7 @@ author: brutdefut
 categories: [ islay-peated-smoky, lowland-irish ]
 image: "assets/images/black-barrel/black-barrel.png"
 rating: 3.5
-preview-tr: Jameson Damıtımevi'nin (1780) Amerikan tarzından esinlenerek ortaya çıkardığı, bir çok ödüle sahip f/p canavarı viskisi.
+preview-tr: Jameson Damıtımevi'nin (1780) Amerikan tarzından esinlenerek ortaya çıkardığı, bir çok ödüle sahip, fiyat performans canavarı viskisi.
 preview-en: Being inspired by the American style, Black Barrel is a whiskey developed by one of the biggest whiskey producers in the world.
 
 ---
