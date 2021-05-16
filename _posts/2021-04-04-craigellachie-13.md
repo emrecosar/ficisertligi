@@ -12,9 +12,9 @@ preview-en: First released in 2014, Craigellachie 13 is one of the best examples
 
 1891 yılında, dönemlerinin ünlü harmancı ve tüccarlarından sayılan Alexander Edward ve Sir Peter Mackie tarafından kurulan Craigellachie Damıtımevi'nin 2014 yılında piyasaya sürdüğü, geleneksel Speyside viski üretiminin en başarılı örneklerinden biri olan 13 yıllık ekspresyonu. 
 
-Burun; karanfil, vanilya, karamelize şeker, çimen ve bitkisel notalar. 
-Damak; elma, kuru et (İsli Boşnak tipi), biber, bal, zencefil acılığı. Dili hafifçe titreten, dolu dolu ve kremamsı yapıya sahip. 
-Bitiş; malt kuruluğu, uzun, sıcak, keskin ve bolca biberli. 
+Burun; karanfil, vanilya, karamelize şeker, çimen ve bitkisel notalar.  
+Damak; elma, kuru et (İsli Boşnak tipi), biber, bal, zencefil acılığı. Dili hafifçe titreten, dolu dolu ve kremamsı yapıya sahip.  
+Bitiş; malt kuruluğu, uzun, sıcak, keskin ve bolca biberli.  
 Kadehte bekledikçe yeşil elma aroması daha çok hissedilir oluyor. 
 
 Burbon ve şeri fıçılarda olgunlaşan, %46 abv ile şişelenen, renklendirici kullanılmayan ve soğuk filtrasyon yapılmayan viskinin bendeki şişe numarası 04-6137.
@@ -32,9 +32,9 @@ Sağlığınıza.
 
 First released in 2014, 13 year old expression is one of the best examples of the traditional Speyside whiskies in the market coming from Craigellachie Distillery. (Established in 1891 by blenders and merchants Alexander Edward & Sir Peter Mackie) 
 
-Nose; cloves, vanilla, caramelized brown sugar, grass and herbal notes. 
-Palate; green apples, dried meat, pepper, honey, ginger. Creamy texture and full of aromas with a beautiful tingling on the tongue. 
-Finish; malty dryness, long, warm, sharp and more peppery. 
+Nose; cloves, vanilla, caramelized brown sugar, grass and herbal notes.  
+Palate; green apples, dried meat, pepper, honey, ginger. Creamy texture and full of aromas with a beautiful tingling on the tongue.  
+Finish; malty dryness, long, warm, sharp and more peppery.  
 After a few minutes in the tumbler, green apple comes forward and says hi. 
 
 Matured in both ex-bourbon and ex-sherry oak casks, bottled with 46% abv, non-chill-filtered, no colouring and my bottle's number is 04-6137. 
