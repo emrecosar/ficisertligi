@@ -17,7 +17,7 @@ Damak; is baskın, zencefil acılığı, fenol sertliği ve bitkisel karakter va
 Bitiş; malt, baharat, is, orta uzunlukta, çok sıcak ve Ardbeg viski departmanının başındaki saygıdeğer Dr. Bill Lumsden'in harika tabiriyle tam bir "tongue tingler".  
 Kadehte bekledikçe fenol uçuyor, kuru meyve aromaları öne çıkıyor ve tatlanıyor. 
 
-Soğuk filtrasyondan geçirilmiyor, renklendirici içermiyor, eski burbon ve oloroso şeri meşe fıçılarda olgunlaşıyor. 50-55 ppm ve % 47.4 abv ile şişeleniyor. Fermantasyon işleminde kullanılan tanklar (washback) Oregon çamından yapılıyor ve çelik muadillerinden farklı olarak, viskinin daha hafif ve zengin profil kazanmasına etki ediyorlar. 
+Soğuk filtrasyondan geçirilmiyor, renklendirici içermiyor, eski burbon ve oloroso şeri meşe fıçılarda olgunlaşıyor. 50-55 ppm ve % 47.4 abv ile şişeleniyor. Fermantasyon işleminde kullanılan tanklar (washback) Oregon çamından yapılıyor ve çelik muadillerinden farklı olarak, viskinin daha hafif ve zengin profil kazanmasına etki ediyorlar.  
 Gençliğinin de etkisiyle şimdiye kadar denediğim en ferah içimli Ardbeg olduğunu söyleyebilirim. Ancak yaşına ve baskın is profiline rağmen kesinlikle dengesiz bir viski değil. Bu nedenle Wee Beastie doğru fıçı seçiminin ne kadar önemli olduğuna dair çok güzel bir örnek teşkil ediyor. (Zaten Ardbeg ile Glenmorangie'nin ağaç seçimine verdiği önem ve hassasiyet hepimizin malumu) 
 
 Ardbeg "core range" viskilerine nokta atışı ekleme ile yola devam ediyor ve diğer damıtımevlerine böylesine zengin, karakterli genç viskiler şişeleme konusunda cesaret veriyor. En azından ben öyle olmasını ümit ediyorum. :) 
