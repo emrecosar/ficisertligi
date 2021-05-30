@@ -23,7 +23,7 @@ GF 18 Small Batch Reserve Oloroso şeri ve burbon fıçılarda olgunlaşıp, %40
 -The IWSC 2013 gümüş, 2014, 2017, 2019 altın  
 -International Spirits Challenge 2014, 2019 altın  
 -The Spirits Business 2013, 2015, 2019 altın  
--Jim Murray's Whisky Bible 2014 altın
+-Jim Murray's Whisky Bible 2014 altın 
 
 Aynı ailenin genç üyesi Glenfiddich 12 benim için zarif viski tanımına uyuyor. GF 15 zengin yapısı sayesinde favori viskilerimden. 18 ise uzun yıllandırmanın her zaman çok daha iyi olmadığına dair güzel bir örnek teşkil ediyor.  
 GF 18'i tek cümle ile özetlemek gerekirse, keyifle içeceğim fakat yokluğunu aramayacağım bir ekspresyon olarak tanımlayabilirim.  
