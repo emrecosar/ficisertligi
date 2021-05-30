@@ -3,7 +3,7 @@ layout: post
 title:  "GLENFIDDICH 18"
 author: brutdefut
 categories: [ speyside ]
-image: "assets/images/glenfiddich-18/glenfiddich-18.jpg"
+image: "assets/images/glenfiddich18/glenfiddich18.jpg"
 rating: 3.5
 preview-tr: Dünyanın en büyük malt viski satıcısı Grants Ailesi tarafından üretilen Glenfiddich 18, markanın bayrak gemisi olarak nitelendirebileceğimiz ekspresyonlarından.   
 preview-en: 18-year-old Small Batch Reserve expression is multi-awarded and the flagship bottling comes from the Glenfiddich Distillery. 
