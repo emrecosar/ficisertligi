@@ -38,7 +38,7 @@ Sağlığınıza.
 
 <p id="english"></p>
 
-Despite all economic depressions in history, Glenfiddich Distillery stays independent, thanks to the World's largest malt whisky seller Grants Family. 18-year-old expression is a multi-awarded and the flagship bottling comes from the distillery. (Est. 1887)  
+Despite all the economic depressions in history, Glenfiddich Distillery stays independent, thanks to the World's largest malt whisky seller Grants Family. 18-year-old expression is a multi-awarded and the flagship bottling comes from the distillery. (Est. 1887)  
 
 Nose; nuts, red plums, peaches, cinnamon and herbal notes.  
 Palate; chesnut honey, black pepper, oaky, oily, creamy with a hint of mint.  
