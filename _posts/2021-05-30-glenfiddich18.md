@@ -10,9 +10,9 @@ preview-en: 18-year-old Small Batch Reserve expression is multi-awarded and the 
 
 ---
 
-Yüzyıllar içerisinde dünyada yaşanan tüm ekonomik buhranlara rağmen bağımsız kalmayı başaran, Dünyanın en büyük malt viski satıcısı Grants Ailesi tarafından üretilen Glenfiddich 18, markanın bol ödüllü, bayrak gemisi olarak nitelendirebileceğimiz ekspresyonlarından. (Kuruluş 1887)  
+Yüzyıllar içerisinde yaşanan tüm ekonomik buhranlara rağmen bağımsız kalmayı başaran, Dünyanın en büyük malt viski satıcısı Grants Ailesi tarafından üretilen Glenfiddich 18, markanın bol ödüllü, bayrak gemisi olarak nitelendirebileceğimiz ekspresyonlarından. (Kuruluş 1887)  
 
-Burun; fındık ve kırmızı erikle başlıyor. Devamında bitkisel notalar, tarçın ve şeftali ile devam ediyor.  
+Burun; fındık ve kırmızı erikle başlıyor. Sonrasında bitkisel notalar, tarçın ve şeftali ile devam ediyor.  
 Damak; kestane balı, karabiber, meşe ve hafif nane. Yağlı ve kremamsı yapıya sahip.  
 Bitiş; orta-uzun arası, meşe kendini daha çok hissettiriyor. Sıcak, baharatlı ve malt kuruluğu sona doğru belirginleşiyor.  
 Kadehte hava aldıkça meşe ve alkol etkisi azalıyor.  
@@ -26,7 +26,7 @@ GF 18 Small Batch Reserve Oloroso şeri ve burbon fıçılarda olgunlaşıp, %40
 -Jim Murray's Whisky Bible 2014 altın
 
 Aynı ailenin genç üyesi Glenfiddich 12 benim için zarif viski tanımına uyuyor. GF 15 zengin yapısı sayesinde favori viskilerimden. 18 ise uzun yıllandırmanın her zaman çok daha iyi olmadığına dair güzel bir örnek teşkil ediyor.  
-GF 18'i keyifle içeceğim fakat yokluğunu aramayacağım bir ekspresyon olarak tanımlayabilirim.  
+GF 18'i tek cümle ile özetlemek gerekirse, keyifle içeceğim fakat yokluğunu aramayacağım bir ekspresyon olarak tanımlayabilirim.  
 
 Dip Not:
 İkinci Dünya Savaşı sonrası, blend'lerin popüler olduğu zamanlarda, William Grant viskilerini bugün kullandığımız adıyla "single malt" olarak etiketleyip şişeleyen ilk üretici. O dönem aldığı tüm tepkilere rağmen, sektörü böylesine etkileyen bir yol açması takdiri fazlasıyla hakediyor.  
