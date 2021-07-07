@@ -19,10 +19,10 @@ Bitiş; tatlı baharatlar, tekrar ufak bir is dokunuşu, yağlı, neredeyse çi�
 %40 abv, en az 18 yıl farklı meşe fıçılarda olgunlaştırılıyor, çoğunlukla arpa ve az oranda tahıl viskilerin karışımı, renklendirici var. 
 
 Viski piyasasındaki en iyi ve popüler harman viskilerden biri olarak elbette bazı ödülleri var;  
--The IWSC 2017 gümüş, 2019 altın
--SFWS 2019 iki altın, 2020 gümüş
--World Whiskies Awards 2018 altın, 2019 altın
--The Spirits Business 2018 altın, 2019 altın
+-The IWSC 2017 gümüş, 2019 altın  
+-SFWS 2019 iki altın, 2020 gümüş  
+-World Whiskies Awards 2018 altın, 2019 altın  
+-The Spirits Business 2018 altın, 2019 altın  
 
 Harmanda yer alan Speyside viskilerin etkisini alttan alta hissetmek heyecan verici. Doğru karışım yakalandığında blend viskilerin ne kadar iyi olabileceğini gösteren en güzel örneklerden biri. Burada usta harmancı Jim Beveridge ve ekibine teşekkür etmeyi bir borç bilirim. Müthiş iş çıkarmışlar. 
 
